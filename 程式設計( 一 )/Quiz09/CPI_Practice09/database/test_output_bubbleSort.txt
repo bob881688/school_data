@@ -1,0 +1,2868 @@
+Pass 0: u 1 D Q 7 J F p H Q Q /
+Pass 1: 1 D Q 7 J F p H Q Q / u
+Pass 2: 1 D 7 J F Q H Q Q / p u
+Pass 3: 1 7 D F J H Q Q / Q p u
+Pass 4: 1 7 D F H J Q / Q Q p u
+
+Pass 0: m o 6 -6 x W T e H h 8 /
+Pass 1: m 6 -6 o W T e H h 8 / x
+Pass 2: 6 -6 m W T e H h 8 / o x
+Pass 3: -6 6 W T e H h 8 / m o x
+Pass 4: -6 6 T W H e 8 / h m o x
+Pass 5: -6 6 T H W 8 / e h m o x
+Pass 6: -6 6 H T 8 / W e h m o x
+Pass 7: -6 6 H 8 / T W e h m o x
+Pass 8: -6 6 8 / H T W e h m o x
+
+Pass 0: -3 4 7 V u -2 p 6 B o L m /
+Pass 1: -3 4 7 V -2 p 6 B o L m / u
+Pass 2: -3 4 7 -2 V 6 B o L m / p u
+Pass 3: -3 4 -2 7 6 B V L m / o p u
+Pass 4: -3 -2 4 6 7 B L V / m o p u
+
+Pass 0: q p -2 2 x -4 Q v A i o -9 C r d E A -2 a /
+Pass 1: p -2 2 q -4 Q v A i o -9 C r d E A -2 a / x
+Pass 2: -2 2 p -4 Q q A i o -9 C r d E A -2 a / v x
+Pass 3: -2 2 -4 Q p A i o -9 C q d E A -2 a / r v x
+Pass 4: -2 -4 2 Q A i o -9 C p d E A -2 a / q r v x
+Pass 5: -4 -2 2 A Q i -9 C o d E A -2 a / p q r v x
+Pass 6: -4 -2 2 A Q -9 C i d E A -2 a / o p q r v x
+Pass 7: -4 -2 2 A -9 C Q d E A -2 a / i o p q r v x
+Pass 8: -4 -2 2 -9 A C Q E A -2 a / d i o p q r v x
+Pass 9: -4 -2 -9 2 A C E A -2 Q / a d i o p q r v x
+Pass 10: -4 -9 -2 2 A C A -2 E / Q a d i o p q r v x
+Pass 11: -9 -4 -2 2 A A -2 C / E Q a d i o p q r v x
+Pass 12: -9 -4 -2 2 A -2 A / C E Q a d i o p q r v x
+Pass 13: -9 -4 -2 2 -2 A / A C E Q a d i o p q r v x
+Pass 14: -9 -4 -2 -2 2 / A A C E Q a d i o p q r v x
+
+Pass 0: M l -1 y d -3 7 F T p b /
+Pass 1: M -1 l d -3 7 F T p b / y
+Pass 2: -1 M d -3 7 F T l b / p y
+Pass 3: -1 M -3 7 F T d b / l p y
+Pass 4: -1 -3 7 F M T b / d l p y
+Pass 5: -3 -1 7 F M T / b d l p y
+
+Pass 0: x -4 B U h F B g E 3 A y 3 l L -1 -7 n /
+Pass 1: -4 B U h F B g E 3 A x 3 l L -1 -7 n / y
+Pass 2: -4 B U F B g E 3 A h 3 l L -1 -7 n / x y
+Pass 3: -4 B F B U E 3 A g 3 h L -1 -7 l / n x y
+Pass 4: -4 B B F E 3 A U 3 g L -1 -7 h / l n x y
+Pass 5: -4 B B E 3 A F 3 U L -1 -7 g / h l n x y
+Pass 6: -4 B B 3 A E 3 F L -1 -7 U / g h l n x y
+Pass 7: -4 B 3 A B 3 E F -1 -7 L / U g h l n x y
+Pass 8: -4 3 A B 3 B E -1 -7 F / L U g h l n x y
+Pass 9: -4 3 A 3 B B -1 -7 E / F L U g h l n x y
+Pass 10: -4 3 3 A B -1 -7 B / E F L U g h l n x y
+Pass 11: -4 3 3 A -1 -7 B / B E F L U g h l n x y
+Pass 12: -4 3 3 -1 -7 A / B B E F L U g h l n x y
+Pass 13: -4 3 -1 -7 3 / A B B E F L U g h l n x y
+Pass 14: -4 -1 -7 3 / 3 A B B E F L U g h l n x y
+Pass 15: -4 -7 -1 / 3 3 A B B E F L U g h l n x y
+Pass 16: -7 -4 / -1 3 3 A B B E F L U g h l n x y
+
+Pass 0: P 3 -6 1 q k F -7 x 4 8 /
+Pass 1: 3 -6 1 P k F -7 q 4 8 / x
+Pass 2: -6 1 3 P F -7 k 4 8 / q x
+Pass 3: -6 1 3 F -7 P 4 8 / k q x
+Pass 4: -6 1 3 -7 F 4 8 / P k q x
+Pass 5: -6 1 -7 3 4 8 / F P k q x
+Pass 6: -6 -7 1 3 4 / 8 F P k q x
+Pass 7: -7 -6 1 3 / 4 8 F P k q x
+
+Pass 0: u 6 1 P -7 s R I 5 M E T n /
+Pass 1: 6 1 P -7 s R I 5 M E T n / u
+Pass 2: 1 6 -7 P R I 5 M E T n / s u
+Pass 3: 1 -7 6 P I 5 M E R T / n s u
+Pass 4: -7 1 6 I 5 M E P R / T n s u
+Pass 5: -7 1 6 5 I E M P / R T n s u
+Pass 6: -7 1 5 6 E I M / P R T n s u
+
+Pass 0: E I -8 U L F l E -5 G /
+Pass 1: E -8 I L F U E -5 G / l
+Pass 2: -8 E I F L E -5 G / U l
+Pass 3: -8 E F I E -5 G / L U l
+Pass 4: -8 E F E -5 G / I L U l
+Pass 5: -8 E E -5 F / G I L U l
+Pass 6: -8 E -5 E / F G I L U l
+Pass 7: -8 -5 E / E F G I L U l
+
+Pass 0: O -7 a 7 5 R 0 n h l m W K E c C 0 /
+Pass 1: -7 O 7 5 R 0 a h l m W K E c C 0 / n
+Pass 2: -7 7 5 O 0 R a h l W K E c C 0 / m n
+Pass 3: -7 5 7 0 O R a h W K E c C 0 / l m n
+Pass 4: -7 5 0 7 O R a W K E c C 0 / h l m n
+Pass 5: -7 0 5 7 O R W K E a C 0 / c h l m n
+Pass 6: -7 0 5 7 O R K E W C 0 / a c h l m n
+Pass 7: -7 0 5 7 O K E R C 0 / W a c h l m n
+Pass 8: -7 0 5 7 K E O C 0 / R W a c h l m n
+Pass 9: -7 0 5 7 E K C 0 / O R W a c h l m n
+Pass 10: -7 0 5 7 E C 0 / K O R W a c h l m n
+Pass 11: -7 0 5 7 C 0 / E K O R W a c h l m n
+Pass 12: -7 0 5 7 0 / C E K O R W a c h l m n
+Pass 13: -7 0 5 0 / 7 C E K O R W a c h l m n
+Pass 14: -7 0 0 / 5 7 C E K O R W a c h l m n
+
+Pass 0: I -8 A p 4 f l N p x g T 7 /
+Pass 1: -8 A I 4 f l N p p g T 7 / x
+Pass 2: -8 A 4 I f N l p g T 7 / p x
+Pass 3: -8 4 A I N f l g T 7 / p p x
+Pass 4: -8 4 A I N f g T 7 / l p p x
+Pass 5: -8 4 A I N f T 7 / g l p p x
+Pass 6: -8 4 A I N T 7 / f g l p p x
+Pass 7: -8 4 A I N 7 / T f g l p p x
+Pass 8: -8 4 A I 7 / N T f g l p p x
+Pass 9: -8 4 A 7 / I N T f g l p p x
+Pass 10: -8 4 7 / A I N T f g l p p x
+
+Pass 0: R e -7 q 7 -8 P e K k V /
+Pass 1: R -7 e 7 -8 P e K k V / q
+Pass 2: -7 R 7 -8 P e K e V / k q
+Pass 3: -7 7 -8 P R K e V / e k q
+Pass 4: -7 -8 7 P K R V / e e k q
+Pass 5: -8 -7 7 K P R / V e e k q
+
+Pass 0: e n N -5 v 8 3 2 7 -5 /
+Pass 1: e N -5 n 8 3 2 7 -5 / v
+Pass 2: N -5 e 8 3 2 7 -5 / n v
+Pass 3: -5 N 8 3 2 7 -5 / e n v
+Pass 4: -5 8 3 2 7 -5 / N e n v
+Pass 5: -5 3 2 7 -5 / 8 N e n v
+Pass 6: -5 2 3 -5 / 7 8 N e n v
+Pass 7: -5 2 -5 / 3 7 8 N e n v
+Pass 8: -5 -5 / 2 3 7 8 N e n v
+
+Pass 0: x I i p N n D u O L -8 /
+Pass 1: I i p N n D u O L -8 / x
+Pass 2: I i N n D p O L -8 / u x
+Pass 3: I N i D n O L -8 / p u x
+Pass 4: I N D i O L -8 / n p u x
+Pass 5: I D N O L -8 / i n p u x
+Pass 6: D I N L -8 / O i n p u x
+Pass 7: D I L -8 / N O i n p u x
+Pass 8: D I -8 / L N O i n p u x
+Pass 9: D -8 / I L N O i n p u x
+Pass 10: -8 / D I L N O i n p u x
+
+Pass 0: y O w l c o R k -9 m y T 4 S -5 9 y r /
+Pass 1: O w l c o R k -9 m y T 4 S -5 9 y r / y
+Pass 2: O l c o R k -9 m w T 4 S -5 9 y r / y y
+Pass 3: O c l R k -9 m o T 4 S -5 9 w r / y y y
+Pass 4: O c R k -9 l m T 4 S -5 9 o r / w y y y
+Pass 5: O R c -9 k l T 4 S -5 9 m o / r w y y y
+Pass 6: O R -9 c k T 4 S -5 9 l m / o r w y y y
+Pass 7: O -9 R c T 4 S -5 9 k l / m o r w y y y
+Pass 8: -9 O R T 4 S -5 9 c k / l m o r w y y y
+Pass 9: -9 O R 4 S -5 9 T c / k l m o r w y y y
+Pass 10: -9 O 4 R -5 9 S T / c k l m o r w y y y
+Pass 11: -9 4 O -5 9 R S / T c k l m o r w y y y
+Pass 12: -9 4 -5 9 O R / S T c k l m o r w y y y
+Pass 13: -9 -5 4 9 O / R S T c k l m o r w y y y
+
+Pass 0: T s k R W 8 o S O e -3 G r v R d z -1 /
+Pass 1: T k R W 8 o S O e -3 G r s R d v -1 / z
+Pass 2: T R W 8 k S O e -3 G o r R d s -1 / v z
+Pass 3: R T 8 W S O e -3 G k o R d r -1 / s v z
+Pass 4: R 8 T S O W -3 G e k R d o -1 / r s v z
+Pass 5: 8 R S O T -3 G W e R d k -1 / o r s v z
+Pass 6: 8 R O S -3 G T W R d e -1 / k o r s v z
+Pass 7: 8 O R -3 G S T R W d -1 / e k o r s v z
+Pass 8: 8 O -3 G R S R T W -1 / d e k o r s v z
+Pass 9: 8 -3 G O R R S T -1 / W d e k o r s v z
+Pass 10: -3 8 G O R R S -1 / T W d e k o r s v z
+Pass 11: -3 8 G O R R -1 / S T W d e k o r s v z
+Pass 12: -3 8 G O R -1 / R S T W d e k o r s v z
+Pass 13: -3 8 G O -1 / R R S T W d e k o r s v z
+Pass 14: -3 8 G -1 / O R R S T W d e k o r s v z
+Pass 15: -3 8 -1 / G O R R S T W d e k o r s v z
+Pass 16: -3 -1 / 8 G O R R S T W d e k o r s v z
+
+Pass 0: E -4 N Q g -5 h x H J u p 0 -7 -6 i v D /
+Pass 1: -4 E N Q -5 g h H J u p 0 -7 -6 i v D / x
+Pass 2: -4 E N -5 Q g H J h p 0 -7 -6 i u D / v x
+Pass 3: -4 E -5 N Q H J g h 0 -7 -6 i p D / u v x
+Pass 4: -4 -5 E N H J Q g 0 -7 -6 h i D / p u v x
+Pass 5: -5 -4 E H J N Q 0 -7 -6 g h D / i p u v x
+Pass 6: -5 -4 E H J N 0 -7 -6 Q g D / h i p u v x
+Pass 7: -5 -4 E H J 0 -7 -6 N Q D / g h i p u v x
+Pass 8: -5 -4 E H 0 -7 -6 J N D / Q g h i p u v x
+Pass 9: -5 -4 E 0 -7 -6 H J D / N Q g h i p u v x
+Pass 10: -5 -4 0 -7 -6 E H D / J N Q g h i p u v x
+Pass 11: -5 -4 -7 -6 0 E D / H J N Q g h i p u v x
+Pass 12: -5 -7 -6 -4 0 D / E H J N Q g h i p u v x
+Pass 13: -7 -6 -5 -4 0 / D E H J N Q g h i p u v x
+
+Pass 0: 9 F T S T -7 B N u 0 8 /
+Pass 1: 9 F S T -7 B N T 0 8 / u
+Pass 2: 9 F S -7 B N T 0 8 / T u
+Pass 3: 9 F -7 B N S 0 8 / T T u
+Pass 4: 9 -7 B F N 0 8 / S T T u
+Pass 5: -7 9 B F 0 8 / N S T T u
+Pass 6: -7 9 B 0 8 / F N S T T u
+Pass 7: -7 9 0 8 / B F N S T T u
+Pass 8: -7 0 8 / 9 B F N S T T u
+
+Pass 0: z L I t J a g K c H 3 A /
+Pass 1: L I t J a g K c H 3 A / z
+Pass 2: I L J a g K c H 3 A / t z
+Pass 3: I J L a K c H 3 A / g t z
+Pass 4: I J L K a H 3 A / c g t z
+Pass 5: I J K L H 3 A / a c g t z
+Pass 6: I J K H 3 A / L a c g t z
+Pass 7: I J H 3 A / K L a c g t z
+Pass 8: I H 3 A / J K L a c g t z
+Pass 9: H 3 A / I J K L a c g t z
+Pass 10: 3 A / H I J K L a c g t z
+
+Pass 0: r 7 R O 0 A -9 -4 U e q t A x 8 /
+Pass 1: 7 R O 0 A -9 -4 U e q r A t 8 / x
+Pass 2: 7 O 0 A -9 -4 R U e q A r 8 / t x
+Pass 3: 7 0 A -9 -4 O R U e A q 8 / r t x
+Pass 4: 0 7 -9 -4 A O R U A e 8 / q r t x
+Pass 5: 0 -9 -4 7 A O R A U 8 / e q r t x
+Pass 6: -9 -4 0 7 A O A R 8 / U e q r t x
+Pass 7: -9 -4 0 7 A A O 8 / R U e q r t x
+Pass 8: -9 -4 0 7 A A 8 / O R U e q r t x
+Pass 9: -9 -4 0 7 A 8 / A O R U e q r t x
+Pass 10: -9 -4 0 7 8 / A A O R U e q r t x
+
+Pass 0: 1 M g v P c B 8 I H E L T -4 6 p g k /
+Pass 1: 1 M g P c B 8 I H E L T -4 6 p g k / v
+Pass 2: 1 M P c B 8 I H E L T -4 6 g g k / p v
+Pass 3: 1 M P B 8 I H E L T -4 6 c g g / k p v
+Pass 4: 1 M B 8 I H E L P -4 6 T c g / g k p v
+Pass 5: 1 B 8 I H E L M -4 6 P T c / g g k p v
+Pass 6: 1 8 B H E I L -4 6 M P T / c g g k p v
+Pass 7: 1 8 B E H I -4 6 L M P / T c g g k p v
+Pass 8: 1 8 B E H -4 6 I L M / P T c g g k p v
+Pass 9: 1 8 B E -4 6 H I L / M P T c g g k p v
+Pass 10: 1 8 B -4 6 E H I / L M P T c g g k p v
+Pass 11: 1 8 -4 6 B E H / I L M P T c g g k p v
+Pass 12: 1 -4 6 8 B E / H I L M P T c g g k p v
+Pass 13: -4 1 6 8 B / E H I L M P T c g g k p v
+
+Pass 0: c v h 4 e C i b i 8 w k /
+Pass 1: c h 4 e C i b i 8 v k / w
+Pass 2: c 4 e C h b i 8 i k / v w
+Pass 3: 4 c C e b h 8 i i / k v w
+Pass 4: 4 C c b e 8 h i / i k v w
+Pass 5: 4 C b c 8 e h / i i k v w
+Pass 6: 4 C b 8 c e / h i i k v w
+Pass 7: 4 C 8 b c / e h i i k v w
+Pass 8: 4 8 C b / c e h i i k v w
+
+Pass 0: k M -2 o 7 V M -1 l 2 l h -4 r W -3 /
+Pass 1: M -2 k 7 V M -1 l 2 l h -4 o W -3 / r
+Pass 2: -2 M 7 V M -1 k 2 l h -4 l W -3 / o r
+Pass 3: -2 7 M M -1 V 2 k h -4 l W -3 / l o r
+Pass 4: -2 7 M -1 M 2 V h -4 k W -3 / l l o r
+Pass 5: -2 7 -1 M 2 M V -4 h W -3 / k l l o r
+Pass 6: -2 -1 7 2 M M -4 V W -3 / h k l l o r
+Pass 7: -2 -1 2 7 M -4 M V -3 / W h k l l o r
+Pass 8: -2 -1 2 7 -4 M M -3 / V W h k l l o r
+Pass 9: -2 -1 2 -4 7 M -3 / M V W h k l l o r
+Pass 10: -2 -1 -4 2 7 -3 / M M V W h k l l o r
+Pass 11: -2 -4 -1 2 -3 / 7 M M V W h k l l o r
+Pass 12: -4 -2 -1 -3 / 2 7 M M V W h k l l o r
+Pass 13: -4 -2 -3 / -1 2 7 M M V W h k l l o r
+Pass 14: -4 -3 / -2 -1 2 7 M M V W h k l l o r
+
+Pass 0: k 2 w Q j T T -8 k 3 o x F /
+Pass 1: 2 k Q j T T -8 k 3 o w F / x
+Pass 2: 2 Q j T T -8 k 3 k o F / w x
+Pass 3: 2 Q T T -8 j 3 k k F / o w x
+Pass 4: 2 Q T -8 T 3 j k F / k o w x
+Pass 5: 2 Q -8 T 3 T j F / k k o w x
+Pass 6: 2 -8 Q 3 T T F / j k k o w x
+Pass 7: -8 2 3 Q T F / T j k k o w x
+Pass 8: -8 2 3 Q F / T T j k k o w x
+Pass 9: -8 2 3 F / Q T T j k k o w x
+
+Pass 0: -4 T -1 h M I i F c R -1 q /
+Pass 1: -4 -1 T M I h F c R -1 i / q
+Pass 2: -4 -1 M I T F c R -1 h / i q
+Pass 3: -4 -1 I M F T R -1 c / h i q
+Pass 4: -4 -1 I F M R -1 T / c h i q
+Pass 5: -4 -1 F I M -1 R / T c h i q
+Pass 6: -4 -1 F I -1 M / R T c h i q
+Pass 7: -4 -1 F -1 I / M R T c h i q
+Pass 8: -4 -1 -1 F / I M R T c h i q
+
+Pass 0: K E n x V I A R 8 J -3 P /
+Pass 1: E K n V I A R 8 J -3 P / x
+Pass 2: E K V I A R 8 J -3 P / n x
+Pass 3: E K I A R 8 J -3 P / V n x
+Pass 4: E I A K 8 J -3 P / R V n x
+Pass 5: E A I 8 J -3 K / P R V n x
+Pass 6: A E 8 I -3 J / K P R V n x
+Pass 7: A 8 E -3 I / J K P R V n x
+Pass 8: 8 A -3 E / I J K P R V n x
+Pass 9: 8 -3 A / E I J K P R V n x
+Pass 10: -3 8 / A E I J K P R V n x
+
+Pass 0: a A -3 C -7 c g R V H h p j m -8 J -2 0 /
+Pass 1: A -3 C -7 a c R V H g h j m -8 J -2 0 / p
+Pass 2: -3 A -7 C a R V H c g h j -8 J -2 0 / m p
+Pass 3: -3 -7 A C R V H a c g h -8 J -2 0 / j m p
+Pass 4: -7 -3 A C R H V a c g -8 J -2 0 / h j m p
+Pass 5: -7 -3 A C H R V a c -8 J -2 0 / g h j m p
+Pass 6: -7 -3 A C H R V a -8 J -2 0 / c g h j m p
+Pass 7: -7 -3 A C H R V -8 J -2 0 / a c g h j m p
+Pass 8: -7 -3 A C H R -8 J -2 0 / V a c g h j m p
+Pass 9: -7 -3 A C H -8 J -2 0 / R V a c g h j m p
+Pass 10: -7 -3 A C -8 H -2 0 / J R V a c g h j m p
+Pass 11: -7 -3 A -8 C -2 0 / H J R V a c g h j m p
+Pass 12: -7 -3 -8 A -2 0 / C H J R V a c g h j m p
+Pass 13: -7 -8 -3 -2 0 / A C H J R V a c g h j m p
+Pass 14: -8 -7 -3 -2 / 0 A C H J R V a c g h j m p
+
+Pass 0: 8 g t S 7 L A x D w 2 x a S w C b -2 /
+Pass 1: 8 g S 7 L A t D w 2 x a S w C b -2 / x
+Pass 2: 8 S 7 L A g D t 2 w a S w C b -2 / x x
+Pass 3: 8 7 L A S D g 2 t a S w C b -2 / w x x
+Pass 4: 7 8 A L D S 2 g a S t C b -2 / w w x x
+Pass 5: 7 8 A D L 2 S a S g C b -2 / t w w x x
+Pass 6: 7 8 A D 2 L S S a C b -2 / g t w w x x
+Pass 7: 7 8 A 2 D L S S C a -2 / b g t w w x x
+Pass 8: 7 8 2 A D L S C S -2 / a b g t w w x x
+Pass 9: 7 2 8 A D L C S -2 / S a b g t w w x x
+Pass 10: 2 7 8 A D C L -2 / S S a b g t w w x x
+Pass 11: 2 7 8 A C D -2 / L S S a b g t w w x x
+Pass 12: 2 7 8 A C -2 / D L S S a b g t w w x x
+Pass 13: 2 7 8 A -2 / C D L S S a b g t w w x x
+Pass 14: 2 7 8 -2 / A C D L S S a b g t w w x x
+Pass 15: 2 7 -2 / 8 A C D L S S a b g t w w x x
+Pass 16: 2 -2 / 7 8 A C D L S S a b g t w w x x
+Pass 17: -2 / 2 7 8 A C D L S S a b g t w w x x
+
+Pass 0: -4 s S j k I 4 y P -3 9 -3 /
+Pass 1: -4 S j k I 4 s P -3 9 -3 / y
+Pass 2: -4 S j I 4 k P -3 9 -3 / s y
+Pass 3: -4 S I 4 j P -3 9 -3 / k s y
+Pass 4: -4 I 4 S P -3 9 -3 / j k s y
+Pass 5: -4 4 I P -3 9 -3 / S j k s y
+Pass 6: -4 4 I -3 9 -3 / P S j k s y
+Pass 7: -4 4 -3 9 -3 / I P S j k s y
+Pass 8: -4 -3 4 -3 / 9 I P S j k s y
+Pass 9: -4 -3 -3 / 4 9 I P S j k s y
+
+Pass 0: 3 2 T w p N V m k O L P y 0 /
+Pass 1: 2 3 T p N V m k O L P w 0 / y
+Pass 2: 2 3 T N V m k O L P p 0 / w y
+Pass 3: 2 3 N T V k O L P m 0 / p w y
+Pass 4: 2 3 N T V O L P k 0 / m p w y
+Pass 5: 2 3 N T O L P V 0 / k m p w y
+Pass 6: 2 3 N O L P T 0 / V k m p w y
+Pass 7: 2 3 N L O P 0 / T V k m p w y
+Pass 8: 2 3 L N O 0 / P T V k m p w y
+Pass 9: 2 3 L N 0 / O P T V k m p w y
+Pass 10: 2 3 L 0 / N O P T V k m p w y
+Pass 11: 2 3 0 / L N O P T V k m p w y
+Pass 12: 2 0 / 3 L N O P T V k m p w y
+Pass 13: 0 / 2 3 L N O P T V k m p w y
+
+Pass 0: -5 h y -9 -6 8 L -7 5 J /
+Pass 1: -5 h -9 -6 8 L -7 5 J / y
+Pass 2: -5 -9 -6 8 L -7 5 J / h y
+Pass 3: -9 -6 -5 8 -7 5 J / L h y
+Pass 4: -9 -6 -5 -7 5 8 / J L h y
+Pass 5: -9 -6 -7 -5 5 / 8 J L h y
+Pass 6: -9 -7 -6 -5 / 5 8 J L h y
+
+Pass 0: h J 8 G H V v u n 3 W /
+Pass 1: J 8 G H V h u n 3 W / v
+Pass 2: 8 G H J V h n 3 W / u v
+Pass 3: 8 G H J V h 3 W / n u v
+Pass 4: 8 G H J V 3 W / h n u v
+Pass 5: 8 G H J 3 V / W h n u v
+Pass 6: 8 G H 3 J / V W h n u v
+Pass 7: 8 G 3 H / J V W h n u v
+Pass 8: 8 3 G / H J V W h n u v
+Pass 9: 3 8 / G H J V W h n u v
+
+Pass 0: d p U -3 G L q -2 B f /
+Pass 1: d U -3 G L p -2 B f / q
+Pass 2: U -3 G L d -2 B f / p q
+Pass 3: -3 G L U -2 B d / f p q
+Pass 4: -3 G L -2 B U / d f p q
+Pass 5: -3 G -2 B L / U d f p q
+Pass 6: -3 -2 B G / L U d f p q
+
+Pass 0: R 9 I a U N w O I r O j p -7 K D U -8 S /
+Pass 1: 9 I R U N a O I r O j p -7 K D U -8 S / w
+Pass 2: 9 I R N U O I a O j p -7 K D U -8 S / r w
+Pass 3: 9 I N R O I U O a j -7 K D U -8 S / p r w
+Pass 4: 9 I N O I R O U a -7 K D U -8 S / j p r w
+Pass 5: 9 I N I O O R U -7 K D U -8 S / a j p r w
+Pass 6: 9 I I N O O R -7 K D U -8 S / U a j p r w
+Pass 7: 9 I I N O O -7 K D R -8 S / U U a j p r w
+Pass 8: 9 I I N O -7 K D O -8 R / S U U a j p r w
+Pass 9: 9 I I N -7 K D O -8 O / R S U U a j p r w
+Pass 10: 9 I I -7 K D N -8 O / O R S U U a j p r w
+Pass 11: 9 I -7 I D K -8 N / O O R S U U a j p r w
+Pass 12: 9 -7 I D I -8 K / N O O R S U U a j p r w
+Pass 13: -7 9 D I -8 I / K N O O R S U U a j p r w
+Pass 14: -7 9 D -8 I / I K N O O R S U U a j p r w
+Pass 15: -7 9 -8 D / I I K N O O R S U U a j p r w
+Pass 16: -7 -8 9 / D I I K N O O R S U U a j p r w
+Pass 17: -8 -7 / 9 D I I K N O O R S U U a j p r w
+
+Pass 0: v n 5 f V R y q a C -4 n -3 n T /
+Pass 1: n 5 f V R v q a C -4 n -3 n T / y
+Pass 2: 5 f V R n q a C -4 n -3 n T / v y
+Pass 3: 5 V R f n a C -4 n -3 n T / q v y
+Pass 4: 5 R V f a C -4 n -3 n T / n q v y
+Pass 5: 5 R V a C -4 f -3 n T / n n q v y
+Pass 6: 5 R V C -4 a -3 f T / n n n q v y
+Pass 7: 5 R C -4 V -3 a T / f n n n q v y
+Pass 8: 5 C -4 R -3 V T / a f n n n q v y
+Pass 9: 5 -4 C -3 R T / V a f n n n q v y
+Pass 10: -4 5 -3 C R / T V a f n n n q v y
+Pass 11: -4 -3 5 C / R T V a f n n n q v y
+
+Pass 0: z y l g j o J p -8 a I z 5 /
+Pass 1: y l g j o J p -8 a I z 5 / z
+Pass 2: l g j o J p -8 a I y 5 / z z
+Pass 3: g j l J o -8 a I p 5 / y z z
+Pass 4: g j J l -8 a I o 5 / p y z z
+Pass 5: g J j -8 a I l 5 / o p y z z
+Pass 6: J g -8 a I j 5 / l o p y z z
+Pass 7: J -8 a I g 5 / j l o p y z z
+Pass 8: -8 J I a 5 / g j l o p y z z
+Pass 9: -8 I J 5 / a g j l o p y z z
+Pass 10: -8 I 5 / J a g j l o p y z z
+Pass 11: -8 5 / I J a g j l o p y z z
+
+Pass 0: O z A 3 8 -1 o S 4 -7 z L -4 D g 3 q -1 G /
+Pass 1: O A 3 8 -1 o S 4 -7 z L -4 D g 3 q -1 G / z
+Pass 2: A 3 8 -1 O S 4 -7 o L -4 D g 3 q -1 G / z z
+Pass 3: 3 8 -1 A O 4 -7 S L -4 D g 3 o -1 G / q z z
+Pass 4: 3 -1 8 A 4 -7 O L -4 D S 3 g -1 G / o q z z
+Pass 5: -1 3 8 4 -7 A L -4 D O 3 S -1 G / g o q z z
+Pass 6: -1 3 4 -7 8 A -4 D L 3 O -1 G / S g o q z z
+Pass 7: -1 3 -7 4 8 -4 A D 3 L -1 G / O S g o q z z
+Pass 8: -1 -7 3 4 -4 8 A 3 D -1 G / L O S g o q z z
+Pass 9: -7 -1 3 -4 4 8 3 A -1 D / G L O S g o q z z
+Pass 10: -7 -1 -4 3 4 3 8 -1 A / D G L O S g o q z z
+Pass 11: -7 -4 -1 3 3 4 -1 8 / A D G L O S g o q z z
+Pass 12: -7 -4 -1 3 3 -1 4 / 8 A D G L O S g o q z z
+Pass 13: -7 -4 -1 3 -1 3 / 4 8 A D G L O S g o q z z
+Pass 14: -7 -4 -1 -1 3 / 3 4 8 A D G L O S g o q z z
+
+Pass 0: b x K -8 b j R w h k k 6 -8 I z p /
+Pass 1: b K -8 b j R w h k k 6 -8 I x p / z
+Pass 2: K -8 b b R j h k k 6 -8 I w p / x z
+Pass 3: -8 K b R b h j k 6 -8 I k p / w x z
+Pass 4: -8 K R b b h j 6 -8 I k k / p w x z
+Pass 5: -8 K R b b h 6 -8 I j k / k p w x z
+Pass 6: -8 K R b b 6 -8 I h j / k k p w x z
+Pass 7: -8 K R b 6 -8 I b h / j k k p w x z
+Pass 8: -8 K R 6 -8 I b b / h j k k p w x z
+Pass 9: -8 K 6 -8 I R b / b h j k k p w x z
+Pass 10: -8 6 -8 I K R / b b h j k k p w x z
+Pass 11: -8 -8 6 I K / R b b h j k k p w x z
+
+Pass 0: D -8 T g s 2 M c 0 m f P -6 8 l D 9 /
+Pass 1: -8 D T g 2 M c 0 m f P -6 8 l D 9 / s
+Pass 2: -8 D T 2 M c 0 g f P -6 8 l D 9 / m s
+Pass 3: -8 D 2 M T 0 c f P -6 8 g D 9 / l m s
+Pass 4: -8 2 D M 0 T c P -6 8 f D 9 / g l m s
+Pass 5: -8 2 D 0 M T P -6 8 c D 9 / f g l m s
+Pass 6: -8 2 0 D M P -6 8 T D 9 / c f g l m s
+Pass 7: -8 0 2 D M -6 8 P D 9 / T c f g l m s
+Pass 8: -8 0 2 D -6 8 M D 9 / P T c f g l m s
+Pass 9: -8 0 2 -6 8 D D 9 / M P T c f g l m s
+Pass 10: -8 0 -6 2 8 D 9 / D M P T c f g l m s
+Pass 11: -8 -6 0 2 8 9 / D D M P T c f g l m s
+
+Pass 0: v s c f u e q i -2 -6 -9 G 9 C /
+Pass 1: s c f u e q i -2 -6 -9 G 9 C / v
+Pass 2: c f s e q i -2 -6 -9 G 9 C / u v
+Pass 3: c f e q i -2 -6 -9 G 9 C / s u v
+Pass 4: c e f i -2 -6 -9 G 9 C / q s u v
+Pass 5: c e f -2 -6 -9 G 9 C / i q s u v
+Pass 6: c e -2 -6 -9 G 9 C / f i q s u v
+Pass 7: c -2 -6 -9 G 9 C / e f i q s u v
+Pass 8: -2 -6 -9 G 9 C / c e f i q s u v
+Pass 9: -6 -9 -2 9 C / G c e f i q s u v
+Pass 10: -9 -6 -2 9 / C G c e f i q s u v
+
+Pass 0: d G k C u 0 g J R x w i /
+Pass 1: G d C k 0 g J R u w i / x
+Pass 2: G C d 0 g J R k u i / w x
+Pass 3: C G 0 d J R g k i / u w x
+Pass 4: C 0 G J R d g i / k u w x
+Pass 5: 0 C G J R d g / i k u w x
+
+Pass 0: N y M c 9 -4 5 D c z /
+Pass 1: N M c 9 -4 5 D c y / z
+Pass 2: M N 9 -4 5 D c c / y z
+Pass 3: M 9 -4 5 D N c / c y z
+Pass 4: 9 -4 5 D M N / c c y z
+Pass 5: -4 5 9 D M / N c c y z
+
+Pass 0: h -1 s j U E W q 9 t -6 -4 f t H /
+Pass 1: -1 h j U E W q 9 s -6 -4 f t H / t
+Pass 2: -1 h U E W j 9 q -6 -4 f s H / t t
+Pass 3: -1 U E W h 9 j -6 -4 f q H / s t t
+Pass 4: -1 E U W 9 h -6 -4 f j H / q s t t
+Pass 5: -1 E U 9 W -6 -4 f h H / j q s t t
+Pass 6: -1 E 9 U -6 -4 W f H / h j q s t t
+Pass 7: -1 9 E -6 -4 U W H / f h j q s t t
+Pass 8: -1 9 -6 -4 E U H / W f h j q s t t
+Pass 9: -1 -6 -4 9 E H / U W f h j q s t t
+Pass 10: -6 -4 -1 9 E / H U W f h j q s t t
+
+Pass 0: -1 g z U O 3 p V U v j i A /
+Pass 1: -1 g U O 3 p V U v j i A / z
+Pass 2: -1 U O 3 g V U p j i A / v z
+Pass 3: -1 O 3 U V U g j i A / p v z
+Pass 4: -1 3 O U U V g i A / j p v z
+Pass 5: -1 3 O U U V g A / i j p v z
+Pass 6: -1 3 O U U V A / g i j p v z
+Pass 7: -1 3 O U U A / V g i j p v z
+Pass 8: -1 3 O U A / U V g i j p v z
+Pass 9: -1 3 O A / U U V g i j p v z
+Pass 10: -1 3 A / O U U V g i j p v z
+
+Pass 0: D r M F E -4 5 E w -7 a /
+Pass 1: D M F E -4 5 E r -7 a / w
+Pass 2: D F E -4 5 E M -7 a / r w
+Pass 3: D E -4 5 E F -7 M / a r w
+Pass 4: D -4 5 E E -7 F / M a r w
+Pass 5: -4 5 D E -7 E / F M a r w
+Pass 6: -4 5 D -7 E / E F M a r w
+Pass 7: -4 5 -7 D / E E F M a r w
+Pass 8: -4 -7 5 / D E E F M a r w
+Pass 9: -7 -4 / 5 D E E F M a r w
+
+Pass 0: 3 t S K v M r 0 2 c /
+Pass 1: 3 S K t M r 0 2 c / v
+Pass 2: 3 K S M r 0 2 c / t v
+Pass 3: 3 K M S 0 2 c / r t v
+Pass 4: 3 K M 0 2 S / c r t v
+Pass 5: 3 K 0 2 M / S c r t v
+Pass 6: 3 0 2 K / M S c r t v
+Pass 7: 0 2 3 / K M S c r t v
+
+Pass 0: -5 H 4 -4 z Q -2 -2 k 8 j -8 -7 U g /
+Pass 1: -5 4 -4 H Q -2 -2 k 8 j -8 -7 U g / z
+Pass 2: -5 -4 4 H -2 -2 Q 8 j -8 -7 U g / k z
+Pass 3: -5 -4 4 -2 -2 H 8 Q -8 -7 U g / j k z
+Pass 4: -5 -4 -2 -2 4 8 H -8 -7 Q U / g j k z
+Pass 5: -5 -4 -2 -2 4 8 -8 -7 H Q / U g j k z
+Pass 6: -5 -4 -2 -2 4 -8 -7 8 H / Q U g j k z
+Pass 7: -5 -4 -2 -2 -8 -7 4 8 / H Q U g j k z
+Pass 8: -5 -4 -2 -8 -7 -2 4 / 8 H Q U g j k z
+Pass 9: -5 -4 -8 -7 -2 -2 / 4 8 H Q U g j k z
+Pass 10: -5 -8 -7 -4 -2 / -2 4 8 H Q U g j k z
+Pass 11: -8 -7 -5 -4 / -2 -2 4 8 H Q U g j k z
+
+Pass 0: C I L H g -9 G 9 z 2 -5 2 9 R 5 /
+Pass 1: C I H L -9 G 9 g 2 -5 2 9 R 5 / z
+Pass 2: C H I -9 G 9 L 2 -5 2 9 R 5 / g z
+Pass 3: C H -9 G 9 I 2 -5 2 9 L 5 / R g z
+Pass 4: C -9 G 9 H 2 -5 2 9 I 5 / L R g z
+Pass 5: -9 C 9 G 2 -5 2 9 H 5 / I L R g z
+Pass 6: -9 9 C 2 -5 2 9 G 5 / H I L R g z
+Pass 7: -9 9 2 -5 2 9 C 5 / G H I L R g z
+Pass 8: -9 2 -5 2 9 9 5 / C G H I L R g z
+Pass 9: -9 -5 2 2 9 5 / 9 C G H I L R g z
+Pass 10: -9 -5 2 2 5 / 9 9 C G H I L R g z
+
+Pass 0: C n i -4 a R G p -6 8 7 P x -6 s y v /
+Pass 1: C i -4 a R G n -6 8 7 P p -6 s x v / y
+Pass 2: C -4 a R G i -6 8 7 P n -6 p s v / x y
+Pass 3: -4 C R G a -6 8 7 P i -6 n p s / v x y
+Pass 4: -4 C G R -6 8 7 P a -6 i n p / s v x y
+Pass 5: -4 C G -6 8 7 P R -6 a i n / p s v x y
+Pass 6: -4 C -6 8 7 G P -6 R a i / n p s v x y
+Pass 7: -4 -6 8 7 C G -6 P R a / i n p s v x y
+Pass 8: -6 -4 7 8 C -6 G P R / a i n p s v x y
+Pass 9: -6 -4 7 8 -6 C G P / R a i n p s v x y
+Pass 10: -6 -4 7 -6 8 C G / P R a i n p s v x y
+Pass 11: -6 -4 -6 7 8 C / G P R a i n p s v x y
+Pass 12: -6 -6 -4 7 8 / C G P R a i n p s v x y
+
+Pass 0: H -7 A 2 y m V 9 i H D C D U O M 7 -7 /
+Pass 1: -7 A 2 H m V 9 i H D C D U O M 7 -7 / y
+Pass 2: -7 2 A H V 9 i H D C D U O M 7 -7 / m y
+Pass 3: -7 2 A H 9 V H D C D U O M 7 -7 / i m y
+Pass 4: -7 2 A 9 H H D C D U O M 7 -7 / V i m y
+Pass 5: -7 2 9 A H D C D H O M 7 -7 / U V i m y
+Pass 6: -7 2 9 A D C D H H M 7 -7 / O U V i m y
+Pass 7: -7 2 9 A C D D H H 7 -7 / M O U V i m y
+Pass 8: -7 2 9 A C D D H 7 -7 / H M O U V i m y
+Pass 9: -7 2 9 A C D D 7 -7 / H H M O U V i m y
+Pass 10: -7 2 9 A C D 7 -7 / D H H M O U V i m y
+Pass 11: -7 2 9 A C 7 -7 / D D H H M O U V i m y
+Pass 12: -7 2 9 A 7 -7 / C D D H H M O U V i m y
+Pass 13: -7 2 9 7 -7 / A C D D H H M O U V i m y
+Pass 14: -7 2 7 -7 / 9 A C D D H H M O U V i m y
+Pass 15: -7 2 -7 / 7 9 A C D D H H M O U V i m y
+Pass 16: -7 -7 / 2 7 9 A C D D H H M O U V i m y
+
+Pass 0: -8 l a A -8 n 0 z M -1 l N 4 q H P b S /
+Pass 1: -8 a A -8 l 0 n M -1 l N 4 q H P b S / z
+Pass 2: -8 A -8 a 0 l M -1 l N 4 n H P b S / q z
+Pass 3: -8 -8 A 0 a M -1 l N 4 l H P b S / n q z
+Pass 4: -8 -8 0 A M -1 a N 4 l H P b S / l n q z
+Pass 5: -8 -8 0 A -1 M N 4 a H P b S / l l n q z
+Pass 6: -8 -8 0 -1 A M 4 N H P a S / b l l n q z
+Pass 7: -8 -8 -1 0 A 4 M H N P S / a b l l n q z
+Pass 8: -8 -8 -1 0 4 A H M N P / S a b l l n q z
+
+Pass 0: C E q -2 O v w -2 M j /
+Pass 1: C E -2 O q v -2 M j / w
+Pass 2: C -2 E O q -2 M j / v w
+Pass 3: -2 C E O -2 M j / q v w
+Pass 4: -2 C E -2 M O / j q v w
+Pass 5: -2 C -2 E M / O j q v w
+Pass 6: -2 -2 C E / M O j q v w
+
+Pass 0: G D a M s 2 8 M f J T n -4 /
+Pass 1: D G M a 2 8 M f J T n -4 / s
+Pass 2: D G M 2 8 M a J T f -4 / n s
+Pass 3: D G 2 8 M M J T a -4 / f n s
+Pass 4: D 2 8 G M J M T -4 / a f n s
+Pass 5: 2 8 D G J M M -4 / T a f n s
+Pass 6: 2 8 D G J M -4 / M T a f n s
+Pass 7: 2 8 D G J -4 / M M T a f n s
+Pass 8: 2 8 D G -4 / J M M T a f n s
+Pass 9: 2 8 D -4 / G J M M T a f n s
+Pass 10: 2 8 -4 / D G J M M T a f n s
+Pass 11: 2 -4 / 8 D G J M M T a f n s
+Pass 12: -4 / 2 8 D G J M M T a f n s
+
+Pass 0: p 3 -7 1 Q O 1 H -9 -6 D y 6 R c p Q Q /
+Pass 1: 3 -7 1 Q O 1 H -9 -6 D p 6 R c p Q Q / y
+Pass 2: -7 1 3 O 1 H -9 -6 D Q 6 R c p Q Q / p y
+Pass 3: -7 1 3 1 H -9 -6 D O 6 Q R c Q Q / p p y
+Pass 4: -7 1 1 3 -9 -6 D H 6 O Q R Q Q / c p p y
+Pass 5: -7 1 1 -9 -6 3 D 6 H O Q Q Q / R c p p y
+Pass 6: -7 1 -9 -6 1 3 6 D H O Q Q / Q R c p p y
+Pass 7: -7 -9 -6 1 1 3 6 D H O Q / Q Q R c p p y
+Pass 8: -9 -7 -6 1 1 3 6 D H O / Q Q Q R c p p y
+
+Pass 0: v W i g 5 D S R 9 C 4 e Q w /
+Pass 1: W i g 5 D S R 9 C 4 e Q v / w
+Pass 2: W g 5 D S R 9 C 4 e Q i / v w
+Pass 3: W 5 D S R 9 C 4 e Q g / i v w
+Pass 4: 5 D S R 9 C 4 W Q e / g i v w
+Pass 5: 5 D R 9 C 4 S Q W / e g i v w
+Pass 6: 5 D 9 C 4 R Q S / W e g i v w
+Pass 7: 5 9 C 4 D Q R / S W e g i v w
+Pass 8: 5 9 4 C D Q / R S W e g i v w
+Pass 9: 5 4 9 C D / Q R S W e g i v w
+Pass 10: 4 5 9 C / D Q R S W e g i v w
+
+Pass 0: b S 3 9 G k h H H D h J Q 8 r w /
+Pass 1: S 3 9 G b h H H D h J Q 8 k r / w
+Pass 2: 3 9 G S b H H D h J Q 8 h k / r w
+Pass 3: 3 9 G S H H D b J Q 8 h h / k r w
+Pass 4: 3 9 G H H D S J Q 8 b h / h k r w
+Pass 5: 3 9 G H D H J Q 8 S b / h h k r w
+Pass 6: 3 9 G D H H J 8 Q S / b h h k r w
+Pass 7: 3 9 D G H H 8 J Q / S b h h k r w
+Pass 8: 3 9 D G H 8 H J / Q S b h h k r w
+Pass 9: 3 9 D G 8 H H / J Q S b h h k r w
+Pass 10: 3 9 D 8 G H / H J Q S b h h k r w
+Pass 11: 3 9 8 D G / H H J Q S b h h k r w
+Pass 12: 3 8 9 D / G H H J Q S b h h k r w
+
+Pass 0: j S s w L D s 1 1 j L -9 p 5 S -6 /
+Pass 1: S j s L D s 1 1 j L -9 p 5 S -6 / w
+Pass 2: S j L D s 1 1 j L -9 p 5 S -6 / s w
+Pass 3: S L D j 1 1 j L -9 p 5 S -6 / s s w
+Pass 4: L D S 1 1 j L -9 j 5 S -6 / p s s w
+Pass 5: D L 1 1 S L -9 j 5 S -6 / j p s s w
+Pass 6: D 1 1 L L -9 S 5 S -6 / j j p s s w
+Pass 7: 1 1 D L -9 L 5 S -6 / S j j p s s w
+Pass 8: 1 1 D -9 L 5 L -6 / S S j j p s s w
+Pass 9: 1 1 -9 D 5 L -6 / L S S j j p s s w
+Pass 10: 1 -9 1 5 D -6 / L L S S j j p s s w
+Pass 11: -9 1 1 5 -6 / D L L S S j j p s s w
+Pass 12: -9 1 1 -6 / 5 D L L S S j j p s s w
+Pass 13: -9 1 -6 / 1 5 D L L S S j j p s s w
+Pass 14: -9 -6 / 1 1 5 D L L S S j j p s s w
+
+Pass 0: -3 g -4 u U t t 9 9 1 4 /
+Pass 1: -3 -4 g U t t 9 9 1 4 / u
+Pass 2: -4 -3 U g t 9 9 1 4 / t u
+Pass 3: -4 -3 U g 9 9 1 4 / t t u
+Pass 4: -4 -3 U 9 9 1 4 / g t t u
+Pass 5: -4 -3 9 9 1 4 / U g t t u
+Pass 6: -4 -3 9 1 4 / 9 U g t t u
+Pass 7: -4 -3 1 4 / 9 9 U g t t u
+
+Pass 0: T L -9 J U 5 G x K z 3 v 0 /
+Pass 1: L -9 J T 5 G U K x 3 v 0 / z
+Pass 2: -9 J L 5 G T K U 3 v 0 / x z
+Pass 3: -9 J 5 G L K T 3 U 0 / v x z
+Pass 4: -9 5 G J K L 3 T 0 / U v x z
+Pass 5: -9 5 G J K 3 L 0 / T U v x z
+Pass 6: -9 5 G J 3 K 0 / L T U v x z
+Pass 7: -9 5 G 3 J 0 / K L T U v x z
+Pass 8: -9 5 3 G 0 / J K L T U v x z
+Pass 9: -9 3 5 0 / G J K L T U v x z
+Pass 10: -9 3 0 / 5 G J K L T U v x z
+Pass 11: -9 0 / 3 5 G J K L T U v x z
+
+Pass 0: A f j -9 p R B 6 4 n -6 -5 S /
+Pass 1: A f -9 j R B 6 4 n -6 -5 S / p
+Pass 2: A -9 f R B 6 4 j -6 -5 S / n p
+Pass 3: -9 A R B 6 4 f -6 -5 S / j n p
+Pass 4: -9 A B 6 4 R -6 -5 S / f j n p
+Pass 5: -9 A 6 4 B -6 -5 R / S f j n p
+Pass 6: -9 6 4 A -6 -5 B / R S f j n p
+Pass 7: -9 4 6 -6 -5 A / B R S f j n p
+Pass 8: -9 4 -6 -5 6 / A B R S f j n p
+Pass 9: -9 -6 -5 4 / 6 A B R S f j n p
+
+Pass 0: 1 g U P N I -3 z l K e M -7 S r y q 6 E /
+Pass 1: 1 U P N I -3 g l K e M -7 S r y q 6 E / z
+Pass 2: 1 P N I -3 U g K e M -7 S l r q 6 E / y z
+Pass 3: 1 N I -3 P U K e M -7 S g l q 6 E / r y z
+Pass 4: 1 I -3 N P K U M -7 S e g l 6 E / q r y z
+Pass 5: 1 -3 I N K P M -7 S U e g 6 E / l q r y z
+Pass 6: -3 1 I K N M -7 P S U e 6 E / g l q r y z
+Pass 7: -3 1 I K M -7 N P S U 6 E / e g l q r y z
+Pass 8: -3 1 I K -7 M N P S 6 E / U e g l q r y z
+Pass 9: -3 1 I -7 K M N P 6 E / S U e g l q r y z
+Pass 10: -3 1 -7 I K M N 6 E / P S U e g l q r y z
+Pass 11: -3 -7 1 I K M 6 E / N P S U e g l q r y z
+Pass 12: -7 -3 1 I K 6 E / M N P S U e g l q r y z
+Pass 13: -7 -3 1 I 6 E / K M N P S U e g l q r y z
+Pass 14: -7 -3 1 6 E / I K M N P S U e g l q r y z
+
+Pass 0: H 7 A 8 p 4 -3 d U 9 A /
+Pass 1: 7 A 8 H 4 -3 d U 9 A / p
+Pass 2: 7 8 A 4 -3 H U 9 A / d p
+Pass 3: 7 8 4 -3 A H 9 A / U d p
+Pass 4: 7 4 -3 8 A 9 A / H U d p
+Pass 5: 4 -3 7 8 9 A / A H U d p
+Pass 6: -3 4 7 8 9 / A A H U d p
+
+Pass 0: T o 6 o a w E s N 3 m 7 c m /
+Pass 1: T 6 o a o E s N 3 m 7 c m / w
+Pass 2: 6 T a o E o N 3 m 7 c m / s w
+Pass 3: 6 T a E o N 3 m 7 c m / o s w
+Pass 4: 6 T E a N 3 m 7 c m / o o s w
+Pass 5: 6 E T N 3 a 7 c m / m o o s w
+Pass 6: 6 E N 3 T 7 a c / m m o o s w
+Pass 7: 6 E 3 N 7 T a / c m m o o s w
+Pass 8: 6 3 E 7 N T / a c m m o o s w
+Pass 9: 3 6 7 E N / T a c m m o o s w
+
+Pass 0: S t C b D V F s t -5 d 7 m y 4 /
+Pass 1: S C b D V F s t -5 d 7 m t 4 / y
+Pass 2: C S D V F b s -5 d 7 m t 4 / t y
+Pass 3: C D S F V b -5 d 7 m s 4 / t t y
+Pass 4: C D F S V -5 b 7 d m 4 / s t t y
+Pass 5: C D F S -5 V 7 b d 4 / m s t t y
+Pass 6: C D F -5 S 7 V b 4 / d m s t t y
+Pass 7: C D -5 F 7 S V 4 / b d m s t t y
+Pass 8: C -5 D 7 F S 4 / V b d m s t t y
+Pass 9: -5 C 7 D F 4 / S V b d m s t t y
+Pass 10: -5 7 C D 4 / F S V b d m s t t y
+Pass 11: -5 7 C 4 / D F S V b d m s t t y
+Pass 12: -5 7 4 / C D F S V b d m s t t y
+Pass 13: -5 4 / 7 C D F S V b d m s t t y
+
+Pass 0: C x N c v w z r Q -8 3 c 5 e 2 /
+Pass 1: C N c v w x r Q -8 3 c 5 e 2 / z
+Pass 2: C N c v w r Q -8 3 c 5 e 2 / x z
+Pass 3: C N c v r Q -8 3 c 5 e 2 / w x z
+Pass 4: C N c r Q -8 3 c 5 e 2 / v w x z
+Pass 5: C N c Q -8 3 c 5 e 2 / r v w x z
+Pass 6: C N Q -8 3 c 5 c 2 / e r v w x z
+Pass 7: C N -8 3 Q 5 c 2 / c e r v w x z
+Pass 8: C -8 3 N 5 Q 2 / c c e r v w x z
+Pass 9: -8 3 C 5 N 2 / Q c c e r v w x z
+Pass 10: -8 3 5 C 2 / N Q c c e r v w x z
+Pass 11: -8 3 5 2 / C N Q c c e r v w x z
+Pass 12: -8 3 2 / 5 C N Q c c e r v w x z
+Pass 13: -8 2 / 3 5 C N Q c c e r v w x z
+
+Pass 0: f h P u E 1 G A a w 6 -5 8 b M d 5 A /
+Pass 1: f P h E 1 G A a u 6 -5 8 b M d 5 A / w
+Pass 2: P f E 1 G A a h 6 -5 8 b M d 5 A / u w
+Pass 3: P E 1 G A a f 6 -5 8 b M d 5 A / h u w
+Pass 4: E 1 G A P a 6 -5 8 b M d 5 A / f h u w
+Pass 5: 1 E A G P 6 -5 8 a M b 5 A / d f h u w
+Pass 6: 1 A E G 6 -5 8 P M a 5 A / b d f h u w
+Pass 7: 1 A E 6 -5 8 G M P 5 A / a b d f h u w
+Pass 8: 1 A 6 -5 8 E G M 5 A / P a b d f h u w
+Pass 9: 1 6 -5 8 A E G 5 A / M P a b d f h u w
+Pass 10: 1 -5 6 8 A E 5 A / G M P a b d f h u w
+Pass 11: -5 1 6 8 A 5 A / E G M P a b d f h u w
+Pass 12: -5 1 6 8 5 A / A E G M P a b d f h u w
+Pass 13: -5 1 6 5 8 / A A E G M P a b d f h u w
+Pass 14: -5 1 5 6 / 8 A A E G M P a b d f h u w
+
+Pass 0: R f H 0 2 n e z A w J 7 r /
+Pass 1: R H 0 2 f e n A w J 7 r / z
+Pass 2: H 0 2 R e f A n J 7 r / w z
+Pass 3: 0 2 H R e A f J 7 n / r w z
+Pass 4: 0 2 H R A e J 7 f / n r w z
+Pass 5: 0 2 H A R J 7 e / f n r w z
+Pass 6: 0 2 A H J 7 R / e f n r w z
+Pass 7: 0 2 A H 7 J / R e f n r w z
+Pass 8: 0 2 A 7 H / J R e f n r w z
+Pass 9: 0 2 7 A / H J R e f n r w z
+
+Pass 0: t G -4 v D x s p o 3 -8 6 9 c L -4 /
+Pass 1: G -4 t D v s p o 3 -8 6 9 c L -4 / x
+Pass 2: -4 G D t s p o 3 -8 6 9 c L -4 / v x
+Pass 3: -4 D G s p o 3 -8 6 9 c L -4 / t v x
+Pass 4: -4 D G p o 3 -8 6 9 c L -4 / s t v x
+Pass 5: -4 D G o 3 -8 6 9 c L -4 / p s t v x
+Pass 6: -4 D G 3 -8 6 9 c L -4 / o p s t v x
+Pass 7: -4 D 3 -8 6 9 G L -4 / c o p s t v x
+Pass 8: -4 3 -8 6 9 D G -4 / L c o p s t v x
+Pass 9: -4 -8 3 6 9 D -4 / G L c o p s t v x
+Pass 10: -8 -4 3 6 9 -4 / D G L c o p s t v x
+Pass 11: -8 -4 3 6 -4 / 9 D G L c o p s t v x
+Pass 12: -8 -4 3 -4 / 6 9 D G L c o p s t v x
+Pass 13: -8 -4 -4 / 3 6 9 D G L c o p s t v x
+
+Pass 0: -3 W O B j -7 h 6 m c P L x x 8 /
+Pass 1: -3 O B W -7 h 6 j c P L m x 8 / x
+Pass 2: -3 B O -7 W 6 h c P L j m 8 / x x
+Pass 3: -3 B -7 O 6 W c P L h j 8 / m x x
+Pass 4: -3 -7 B 6 O W P L c h 8 / j m x x
+Pass 5: -7 -3 6 B O P L W c 8 / h j m x x
+Pass 6: -7 -3 6 B O L P W 8 / c h j m x x
+Pass 7: -7 -3 6 B L O P 8 / W c h j m x x
+Pass 8: -7 -3 6 B L O 8 / P W c h j m x x
+Pass 9: -7 -3 6 B L 8 / O P W c h j m x x
+Pass 10: -7 -3 6 B 8 / L O P W c h j m x x
+Pass 11: -7 -3 6 8 / B L O P W c h j m x x
+
+Pass 0: j F 0 -1 D p E b z 2 z m N G /
+Pass 1: F 0 -1 D j E b p 2 z m N G / z
+Pass 2: 0 -1 D F E b j 2 p m N G / z z
+Pass 3: -1 0 D E F b 2 j m N G / p z z
+Pass 4: -1 0 D E F 2 b j N G / m p z z
+Pass 5: -1 0 D E 2 F b N G / j m p z z
+Pass 6: -1 0 D 2 E F N G / b j m p z z
+Pass 7: -1 0 2 D E F G / N b j m p z z
+
+Pass 0: t L O n w W 5 u t J C R R D F A J J /
+Pass 1: L O n t W 5 u t J C R R D F A J J / w
+Pass 2: L O n W 5 t t J C R R D F A J J / u w
+Pass 3: L O W 5 n t J C R R D F A J J / t u w
+Pass 4: L O 5 W n J C R R D F A J J / t t u w
+Pass 5: L 5 O W J C R R D F A J J / n t t u w
+Pass 6: 5 L O J C R R D F A J J / W n t t u w
+Pass 7: 5 L J C O R D F A J J / R W n t t u w
+Pass 8: 5 J C L O D F A J J / R R W n t t u w
+Pass 9: 5 C J L D F A J J / O R R W n t t u w
+Pass 10: 5 C J D F A J J / L O R R W n t t u w
+Pass 11: 5 C D F A J J / J L O R R W n t t u w
+Pass 12: 5 C D A F J / J J L O R R W n t t u w
+Pass 13: 5 C A D F / J J J L O R R W n t t u w
+Pass 14: 5 A C D / F J J J L O R R W n t t u w
+
+Pass 0: n E E u 5 -3 -6 9 9 H D -7 O P D 1 /
+Pass 1: E E n 5 -3 -6 9 9 H D -7 O P D 1 / u
+Pass 2: E E 5 -3 -6 9 9 H D -7 O P D 1 / n u
+Pass 3: E 5 -3 -6 9 9 E D -7 H O D 1 / P n u
+Pass 4: 5 -3 -6 9 9 E D -7 E H D 1 / O P n u
+Pass 5: -3 -6 5 9 9 D -7 E E D 1 / H O P n u
+Pass 6: -6 -3 5 9 9 -7 D E D 1 / E H O P n u
+Pass 7: -6 -3 5 9 -7 9 D D 1 / E E H O P n u
+Pass 8: -6 -3 5 -7 9 9 D 1 / D E E H O P n u
+Pass 9: -6 -3 -7 5 9 9 1 / D D E E H O P n u
+Pass 10: -6 -7 -3 5 9 1 / 9 D D E E H O P n u
+Pass 11: -7 -6 -3 5 1 / 9 9 D D E E H O P n u
+Pass 12: -7 -6 -3 1 / 5 9 9 D D E E H O P n u
+
+Pass 0: i a N C n s -7 w L C /
+Pass 1: a N C i n -7 s L C / w
+Pass 2: N C a i -7 n L C / s w
+Pass 3: C N a -7 i L C / n s w
+Pass 4: C N -7 a L C / i n s w
+Pass 5: C -7 N L C / a i n s w
+Pass 6: -7 C L C / N a i n s w
+Pass 7: -7 C C / L N a i n s w
+
+Pass 0: d k Q B g v P D G -7 e -6 z M V 1 /
+Pass 1: d Q B g k P D G -7 e -6 v M V 1 / z
+Pass 2: Q B d g P D G -7 e -6 k M V 1 / v z
+Pass 3: B Q d P D G -7 e -6 g M V 1 / k v z
+Pass 4: B Q P D G -7 d -6 e M V 1 / g k v z
+Pass 5: B P D G -7 Q -6 d M V 1 / e g k v z
+Pass 6: B D G -7 P -6 Q M V 1 / d e g k v z
+Pass 7: B D -7 G -6 P M Q 1 / V d e g k v z
+Pass 8: B -7 D -6 G M P 1 / Q V d e g k v z
+Pass 9: -7 B -6 D G M 1 / P Q V d e g k v z
+Pass 10: -7 -6 B D G 1 / M P Q V d e g k v z
+Pass 11: -7 -6 B D 1 / G M P Q V d e g k v z
+Pass 12: -7 -6 B 1 / D G M P Q V d e g k v z
+Pass 13: -7 -6 1 / B D G M P Q V d e g k v z
+
+Pass 0: 1 9 v I -7 K C q k W y P x N c 3 /
+Pass 1: 1 9 I -7 K C q k W v P x N c 3 / y
+Pass 2: 1 9 -7 I C K k W q P v N c 3 / x y
+Pass 3: 1 -7 9 C I K W k P q N c 3 / v x y
+Pass 4: -7 1 9 C I K W P k N c 3 / q v x y
+Pass 5: -7 1 9 C I K P W N c 3 / k q v x y
+Pass 6: -7 1 9 C I K P N W 3 / c k q v x y
+Pass 7: -7 1 9 C I K N P 3 / W c k q v x y
+Pass 8: -7 1 9 C I K N 3 / P W c k q v x y
+Pass 9: -7 1 9 C I K 3 / N P W c k q v x y
+Pass 10: -7 1 9 C I 3 / K N P W c k q v x y
+Pass 11: -7 1 9 C 3 / I K N P W c k q v x y
+Pass 12: -7 1 9 3 / C I K N P W c k q v x y
+Pass 13: -7 1 3 / 9 C I K N P W c k q v x y
+
+Pass 0: R 8 P s Q N m R I 0 l 8 7 A J 8 b /
+Pass 1: 8 P R Q N m R I 0 l 8 7 A J 8 b / s
+Pass 2: 8 P Q N R R I 0 l 8 7 A J 8 b / m s
+Pass 3: 8 P N Q R I 0 R 8 7 A J 8 b / l m s
+Pass 4: 8 N P Q I 0 R 8 7 A J 8 R / b l m s
+Pass 5: 8 N P I 0 Q 8 7 A J 8 R / R b l m s
+Pass 6: 8 N I 0 P 8 7 A J 8 Q / R R b l m s
+Pass 7: 8 I 0 N 8 7 A J 8 P / Q R R b l m s
+Pass 8: 8 0 I 8 7 A J 8 N / P Q R R b l m s
+Pass 9: 0 8 8 7 A I 8 J / N P Q R R b l m s
+Pass 10: 0 8 7 8 A 8 I / J N P Q R R b l m s
+Pass 11: 0 7 8 8 8 A / I J N P Q R R b l m s
+
+Pass 0: 3 u g i M 0 -1 8 u r x v r s /
+Pass 1: 3 g i M 0 -1 8 u r u v r s / x
+Pass 2: 3 g M 0 -1 8 i r u u r s / v x
+Pass 3: 3 M 0 -1 8 g i r u r s / u v x
+Pass 4: 3 0 -1 8 M g i r r s / u u v x
+Pass 5: 0 -1 3 8 M g i r r / s u u v x
+Pass 6: -1 0 3 8 M g i r / r s u u v x
+
+Pass 0: v 4 f p 7 h v f Q b -7 G O u s /
+Pass 1: 4 f p 7 h v f Q b -7 G O u s / v
+Pass 2: 4 f 7 h p f Q b -7 G O u s / v v
+Pass 3: 4 7 f h f Q b -7 G O p s / u v v
+Pass 4: 4 7 f f Q b -7 G O h p / s u v v
+Pass 5: 4 7 f Q b -7 G O f h / p s u v v
+Pass 6: 4 7 Q b -7 G O f f / h p s u v v
+Pass 7: 4 7 Q -7 G O b f / f h p s u v v
+Pass 8: 4 7 -7 G O Q b / f f h p s u v v
+Pass 9: 4 -7 7 G O Q / b f f h p s u v v
+Pass 10: -7 4 7 G O / Q b f f h p s u v v
+
+Pass 0: K M U s n p G g D J k h A v y I 8 s j /
+Pass 1: K M U n p G g D J k h A s v I 8 s j / y
+Pass 2: K M U n G g D J k h A p s I 8 s j / v y
+Pass 3: K M U G g D J k h A n p I 8 s j / s v y
+Pass 4: K M G U D J g h A k n I 8 p j / s s v y
+Pass 5: K G M D J U g A h k I 8 n j / p s s v y
+Pass 6: G K D J M U A g h I 8 k j / n p s s v y
+Pass 7: G D J K M A U g I 8 h j / k n p s s v y
+Pass 8: D G J K A M U I 8 g h / j k n p s s v y
+Pass 9: D G J A K M I 8 U g / h j k n p s s v y
+Pass 10: D G A J K I 8 M U / g h j k n p s s v y
+Pass 11: D A G J I 8 K M / U g h j k n p s s v y
+Pass 12: A D G I 8 J K / M U g h j k n p s s v y
+Pass 13: A D G 8 I J / K M U g h j k n p s s v y
+Pass 14: A D 8 G I / J K M U g h j k n p s s v y
+Pass 15: A 8 D G / I J K M U g h j k n p s s v y
+Pass 16: 8 A D / G I J K M U g h j k n p s s v y
+
+Pass 0: d K b B 9 9 t -2 t f p i O H N -5 1 q /
+Pass 1: K b B 9 9 d -2 t f p i O H N -5 1 q / t
+Pass 2: K B 9 9 b -2 d f p i O H N -5 1 q / t t
+Pass 3: B 9 9 K -2 b d f i O H N -5 1 p / q t t
+Pass 4: 9 9 B -2 K b d f O H N -5 1 i / p q t t
+Pass 5: 9 9 -2 B K b d O H N -5 1 f / i p q t t
+Pass 6: 9 -2 9 B K b O H N -5 1 d / f i p q t t
+Pass 7: -2 9 9 B K O H N -5 1 b / d f i p q t t
+Pass 8: -2 9 9 B K H N -5 1 O / b d f i p q t t
+Pass 9: -2 9 9 B H K -5 1 N / O b d f i p q t t
+Pass 10: -2 9 9 B H -5 1 K / N O b d f i p q t t
+Pass 11: -2 9 9 B -5 1 H / K N O b d f i p q t t
+Pass 12: -2 9 9 -5 1 B / H K N O b d f i p q t t
+Pass 13: -2 9 -5 1 9 / B H K N O b d f i p q t t
+Pass 14: -2 -5 1 9 / 9 B H K N O b d f i p q t t
+Pass 15: -5 -2 1 / 9 9 B H K N O b d f i p q t t
+
+Pass 0: V r k 1 C c U s -6 J /
+Pass 1: V k 1 C c U r -6 J / s
+Pass 2: V 1 C c U k -6 J / r s
+Pass 3: 1 C V U c -6 J / k r s
+Pass 4: 1 C U V -6 J / c k r s
+Pass 5: 1 C U -6 J / V c k r s
+Pass 6: 1 C -6 J / U V c k r s
+Pass 7: 1 -6 C / J U V c k r s
+Pass 8: -6 1 / C J U V c k r s
+
+Pass 0: e -3 o P z C n T t G /
+Pass 1: -3 e P o C n T t G / z
+Pass 2: -3 P e C n T o G / t z
+Pass 3: -3 P C e T n G / o t z
+Pass 4: -3 C P T e G / n o t z
+Pass 5: -3 C P T G / e n o t z
+Pass 6: -3 C P G / T e n o t z
+Pass 7: -3 C G / P T e n o t z
+
+Pass 0: S -5 a S F r x q -3 k 5 -3 -9 2 3 i v f /
+Pass 1: -5 S S F a r q -3 k 5 -3 -9 2 3 i v f / x
+Pass 2: -5 S F S a q -3 k 5 -3 -9 2 3 i r f / v x
+Pass 3: -5 F S S a -3 k 5 -3 -9 2 3 i q f / r v x
+Pass 4: -5 F S S -3 a 5 -3 -9 2 3 i k f / q r v x
+Pass 5: -5 F S -3 S 5 -3 -9 2 3 a i f / k q r v x
+Pass 6: -5 F -3 S 5 -3 -9 2 3 S a f / i k q r v x
+Pass 7: -5 -3 F 5 -3 -9 2 3 S S a / f i k q r v x
+Pass 8: -5 -3 5 -3 -9 2 3 F S S / a f i k q r v x
+Pass 9: -5 -3 -3 -9 2 3 5 F S / S a f i k q r v x
+Pass 10: -5 -3 -9 -3 2 3 5 F / S S a f i k q r v x
+Pass 11: -5 -9 -3 -3 2 3 5 / F S S a f i k q r v x
+Pass 12: -9 -5 -3 -3 2 3 / 5 F S S a f i k q r v x
+
+Pass 0: C M O x e T e b -2 l J b v q /
+Pass 1: C M O e T e b -2 l J b v q / x
+Pass 2: C M O T e b -2 e J b l q / v x
+Pass 3: C M O T b -2 e J b e l / q v x
+Pass 4: C M O T -2 b J b e e / l q v x
+Pass 5: C M O -2 T J b b e / e l q v x
+Pass 6: C M -2 O J T b b / e e l q v x
+Pass 7: C -2 M J O T b / b e e l q v x
+Pass 8: -2 C J M O T / b b e e l q v x
+
+Pass 0: L x 8 v h g M 6 J s f P /
+Pass 1: L 8 v h g M 6 J s f P / x
+Pass 2: 8 L h g M 6 J s f P / v x
+Pass 3: 8 L g M 6 J h f P / s v x
+Pass 4: 8 L M 6 J g f P / h s v x
+Pass 5: 8 L 6 J M f P / g h s v x
+Pass 6: 8 6 J L M P / f g h s v x
+Pass 7: 6 8 J L M / P f g h s v x
+
+Pass 0: n m n y F i c -9 -6 2 H /
+Pass 1: m n n F i c -9 -6 2 H / y
+Pass 2: m n F i c -9 -6 2 H / n y
+Pass 3: m F i c -9 -6 2 H / n n y
+Pass 4: F i c -9 -6 2 H / m n n y
+Pass 5: F c -9 -6 2 H / i m n n y
+Pass 6: F -9 -6 2 H / c i m n n y
+Pass 7: -9 -6 2 F / H c i m n n y
+
+Pass 0: L A B k O k Q 1 r -6 J U v h g /
+Pass 1: A B L O k Q 1 k -6 J U r h g / v
+Pass 2: A B L O Q 1 k -6 J U k h g / r v
+Pass 3: A B L O 1 Q -6 J U k h g / k r v
+Pass 4: A B L 1 O -6 J Q U h g / k k r v
+Pass 5: A B 1 L -6 J O Q U g / h k k r v
+Pass 6: A 1 B -6 J L O Q U / g h k k r v
+Pass 7: 1 A -6 B J L O Q / U g h k k r v
+Pass 8: 1 -6 A B J L O / Q U g h k k r v
+Pass 9: -6 1 A B J L / O Q U g h k k r v
+
+Pass 0: Q -6 o -4 -7 v j F 4 9 0 /
+Pass 1: -6 Q -4 -7 o j F 4 9 0 / v
+Pass 2: -6 -4 -7 Q j F 4 9 0 / o v
+Pass 3: -6 -7 -4 Q F 4 9 0 / j o v
+Pass 4: -7 -6 -4 F 4 9 0 / Q j o v
+Pass 5: -7 -6 -4 4 9 0 / F Q j o v
+Pass 6: -7 -6 -4 4 0 / 9 F Q j o v
+Pass 7: -7 -6 -4 0 / 4 9 F Q j o v
+
+Pass 0: V d 7 c V G Q W 6 -6 w 6 -3 l l x t /
+Pass 1: V 7 c V G Q W 6 -6 d 6 -3 l l w t / x
+Pass 2: 7 V V G Q W 6 -6 c 6 -3 d l l t / w x
+Pass 3: 7 V G Q V 6 -6 W 6 -3 c d l l / t w x
+Pass 4: 7 G Q V 6 -6 V 6 -3 W c d l / l t w x
+Pass 5: 7 G Q 6 -6 V 6 -3 V W c d / l l t w x
+Pass 6: 7 G 6 -6 Q 6 -3 V V W c / d l l t w x
+Pass 7: 7 6 -6 G 6 -3 Q V V W / c d l l t w x
+Pass 8: 6 -6 7 6 -3 G Q V V / W c d l l t w x
+Pass 9: -6 6 6 -3 7 G Q V / V W c d l l t w x
+Pass 10: -6 6 -3 6 7 G Q / V V W c d l l t w x
+Pass 11: -6 -3 6 6 7 G / Q V V W c d l l t w x
+
+Pass 0: t f -2 5 -4 -9 2 -7 d x H L -3 Q B q y /
+Pass 1: f -2 5 -4 -9 2 -7 d t H L -3 Q B q x / y
+Pass 2: -2 5 -4 -9 2 -7 d f H L -3 Q B q t / x y
+Pass 3: -2 -4 -9 2 -7 5 d H L -3 Q B f q / t x y
+Pass 4: -4 -9 -2 -7 2 5 H L -3 Q B d f / q t x y
+Pass 5: -9 -4 -7 -2 2 5 H -3 L B Q d / f q t x y
+Pass 6: -9 -7 -4 -2 2 5 -3 H B L Q / d f q t x y
+Pass 7: -9 -7 -4 -2 2 -3 5 B H L / Q d f q t x y
+Pass 8: -9 -7 -4 -2 -3 2 5 B H / L Q d f q t x y
+Pass 9: -9 -7 -4 -3 -2 2 5 B / H L Q d f q t x y
+
+Pass 0: N A 0 t J p p 0 a D W 5 w K w /
+Pass 1: A 0 N J p p 0 a D W 5 t K w / w
+Pass 2: 0 A J N p 0 a D W 5 p K t / w w
+Pass 3: 0 A J N 0 a D W 5 p K p / t w w
+Pass 4: 0 A J 0 N D W 5 a K p / p t w w
+Pass 5: 0 A 0 J D N 5 W K a / p p t w w
+Pass 6: 0 0 A D J 5 N K W / a p p t w w
+Pass 7: 0 0 A D 5 J K N / W a p p t w w
+Pass 8: 0 0 A 5 D J K / N W a p p t w w
+Pass 9: 0 0 5 A D J / K N W a p p t w w
+
+Pass 0: t h 4 T -7 -5 b D M v p q d u -4 /
+Pass 1: h 4 T -7 -5 b D M t p q d u -4 / v
+Pass 2: 4 T -7 -5 b D M h p q d t -4 / u v
+Pass 3: 4 -7 -5 T D M b h p d q -4 / t u v
+Pass 4: -7 -5 4 D M T b h d p -4 / q t u v
+Pass 5: -7 -5 4 D M T b d h -4 / p q t u v
+Pass 6: -7 -5 4 D M T b d -4 / h p q t u v
+Pass 7: -7 -5 4 D M T b -4 / d h p q t u v
+Pass 8: -7 -5 4 D M T -4 / b d h p q t u v
+Pass 9: -7 -5 4 D M -4 / T b d h p q t u v
+Pass 10: -7 -5 4 D -4 / M T b d h p q t u v
+Pass 11: -7 -5 4 -4 / D M T b d h p q t u v
+Pass 12: -7 -5 -4 / 4 D M T b d h p q t u v
+
+Pass 0: d H z 4 n p 3 -5 a f 6 -9 /
+Pass 1: H d 4 n p 3 -5 a f 6 -9 / z
+Pass 2: H 4 d n 3 -5 a f 6 -9 / p z
+Pass 3: 4 H d 3 -5 a f 6 -9 / n p z
+Pass 4: 4 H 3 -5 a d 6 -9 / f n p z
+Pass 5: 4 3 -5 H a 6 -9 / d f n p z
+Pass 6: 3 -5 4 H 6 -9 / a d f n p z
+Pass 7: -5 3 4 6 -9 / H a d f n p z
+Pass 8: -5 3 4 -9 / 6 H a d f n p z
+Pass 9: -5 3 -9 / 4 6 H a d f n p z
+Pass 10: -5 -9 / 3 4 6 H a d f n p z
+Pass 11: -9 / -5 3 4 6 H a d f n p z
+
+Pass 0: k K w G E I H f D -6 S R -4 u /
+Pass 1: K k G E I H f D -6 S R -4 u / w
+Pass 2: K G E I H f D -6 S R -4 k / u w
+Pass 3: G E I H K D -6 S R -4 f / k u w
+Pass 4: E G H I D -6 K R -4 S / f k u w
+Pass 5: E G H D -6 I K -4 R / S f k u w
+Pass 6: E G D -6 H I -4 K / R S f k u w
+Pass 7: E D -6 G H -4 I / K R S f k u w
+Pass 8: D -6 E G -4 H / I K R S f k u w
+Pass 9: -6 D E -4 G / H I K R S f k u w
+Pass 10: -6 D -4 E / G H I K R S f k u w
+Pass 11: -6 -4 D / E G H I K R S f k u w
+
+Pass 0: V R Q e n -7 2 v -1 e /
+Pass 1: R Q V e -7 2 n -1 e / v
+Pass 2: Q R V -7 2 e -1 e / n v
+Pass 3: Q R -7 2 V -1 e / e n v
+Pass 4: Q -7 2 R -1 V / e e n v
+Pass 5: -7 2 Q -1 R / V e e n v
+Pass 6: -7 2 -1 Q / R V e e n v
+Pass 7: -7 -1 2 / Q R V e e n v
+
+Pass 0: 8 G l 3 -4 n K T N -5 4 U o L s i T 9 8 /
+Pass 1: 8 G 3 -4 l K T N -5 4 U n L o i T 9 8 / s
+Pass 2: 8 3 -4 G K T N -5 4 U l L n i T 9 8 / o s
+Pass 3: 3 -4 8 G K N -5 4 T U L l i T 9 8 / n o s
+Pass 4: -4 3 8 G K -5 4 N T L U i T 9 8 / l n o s
+Pass 5: -4 3 8 G -5 4 K N L T U T 9 8 / i l n o s
+Pass 6: -4 3 8 -5 4 G K L N T T 9 8 / U i l n o s
+Pass 7: -4 3 -5 4 8 G K L N T 9 8 / T U i l n o s
+Pass 8: -4 -5 3 4 8 G K L N 9 8 / T T U i l n o s
+Pass 9: -5 -4 3 4 8 G K L 9 8 / N T T U i l n o s
+Pass 10: -5 -4 3 4 8 G K 9 8 / L N T T U i l n o s
+Pass 11: -5 -4 3 4 8 G 9 8 / K L N T T U i l n o s
+Pass 12: -5 -4 3 4 8 9 8 / G K L N T T U i l n o s
+Pass 13: -5 -4 3 4 8 8 / 9 G K L N T T U i l n o s
+
+Pass 0: G m k -4 U L 0 d T -7 J B -2 9 s e E -5 /
+Pass 1: G k -4 U L 0 d T -7 J B -2 9 m e E -5 / s
+Pass 2: G -4 U L 0 d T -7 J B -2 9 k e E -5 / m s
+Pass 3: -4 G L 0 U T -7 J B -2 9 d e E -5 / k m s
+Pass 4: -4 G 0 L T -7 J B -2 9 U d E -5 / e k m s
+Pass 5: -4 0 G L -7 J B -2 9 T U E -5 / d e k m s
+Pass 6: -4 0 G -7 J B -2 9 L T E -5 / U d e k m s
+Pass 7: -4 0 -7 G B -2 9 J L E -5 / T U d e k m s
+Pass 8: -4 -7 0 B -2 9 G J E -5 / L T U d e k m s
+Pass 9: -7 -4 0 -2 9 B G E -5 / J L T U d e k m s
+Pass 10: -7 -4 -2 0 9 B E -5 / G J L T U d e k m s
+Pass 11: -7 -4 -2 0 9 B -5 / E G J L T U d e k m s
+Pass 12: -7 -4 -2 0 9 -5 / B E G J L T U d e k m s
+Pass 13: -7 -4 -2 0 -5 / 9 B E G J L T U d e k m s
+Pass 14: -7 -4 -2 -5 / 0 9 B E G J L T U d e k m s
+Pass 15: -7 -4 -5 / -2 0 9 B E G J L T U d e k m s
+Pass 16: -7 -5 / -4 -2 0 9 B E G J L T U d e k m s
+
+Pass 0: z 3 a -1 8 -2 -7 q H t J m /
+Pass 1: 3 a -1 8 -2 -7 q H t J m / z
+Pass 2: 3 -1 8 -2 -7 a H q J m / t z
+Pass 3: -1 3 -2 -7 8 H a J m / q t z
+Pass 4: -1 -2 -7 3 8 H J a / m q t z
+Pass 5: -2 -7 -1 3 8 H J / a m q t z
+Pass 6: -7 -2 -1 3 8 H / J a m q t z
+
+Pass 0: U v t a e D -1 b c N 4 -3 P f 2 f 6 -1 L /
+Pass 1: U t a e D -1 b c N 4 -3 P f 2 f 6 -1 L / v
+Pass 2: U a e D -1 b c N 4 -3 P f 2 f 6 -1 L / t v
+Pass 3: U a D -1 b c N 4 -3 P e 2 f 6 -1 L / f t v
+Pass 4: U D -1 a b N 4 -3 P c 2 e 6 -1 L / f f t v
+Pass 5: D -1 U a N 4 -3 P b 2 c 6 -1 L / e f f t v
+Pass 6: -1 D U N 4 -3 P a 2 b 6 -1 L / c e f f t v
+Pass 7: -1 D N 4 -3 P U 2 a 6 -1 L / b c e f f t v
+Pass 8: -1 D 4 -3 N P 2 U 6 -1 L / a b c e f f t v
+Pass 9: -1 4 -3 D N 2 P 6 -1 L / U a b c e f f t v
+Pass 10: -1 -3 4 D 2 N 6 -1 L / P U a b c e f f t v
+Pass 11: -3 -1 4 2 D 6 -1 L / N P U a b c e f f t v
+Pass 12: -3 -1 2 4 6 -1 D / L N P U a b c e f f t v
+Pass 13: -3 -1 2 4 -1 6 / D L N P U a b c e f f t v
+Pass 14: -3 -1 2 -1 4 / 6 D L N P U a b c e f f t v
+Pass 15: -3 -1 -1 2 / 4 6 D L N P U a b c e f f t v
+
+Pass 0: r u 3 n E -3 p s B c K -7 -8 w i b L t /
+Pass 1: r 3 n E -3 p s B c K -7 -8 u i b L t / w
+Pass 2: 3 n E -3 p r B c K -7 -8 s i b L t / u w
+Pass 3: 3 E -3 n p B c K -7 -8 r i b L s / t u w
+Pass 4: 3 -3 E n B c K -7 -8 p i b L r / s t u w
+Pass 5: -3 3 E B c K -7 -8 n i b L p / r s t u w
+Pass 6: -3 3 B E K -7 -8 c i b L n / p r s t u w
+Pass 7: -3 3 B E -7 -8 K c b L i / n p r s t u w
+Pass 8: -3 3 B -7 -8 E K b L c / i n p r s t u w
+Pass 9: -3 3 -7 -8 B E K L b / c i n p r s t u w
+Pass 10: -3 -7 -8 3 B E K L / b c i n p r s t u w
+Pass 11: -7 -8 -3 3 B E K / L b c i n p r s t u w
+Pass 12: -8 -7 -3 3 B E / K L b c i n p r s t u w
+
+Pass 0: C p s p W U 0 -6 h P 0 e b Q o -1 H e /
+Pass 1: C p p W U 0 -6 h P 0 e b Q o -1 H e / s
+Pass 2: C p W U 0 -6 h P 0 e b Q o -1 H e / p s
+Pass 3: C W U 0 -6 h P 0 e b Q o -1 H e / p p s
+Pass 4: C U 0 -6 W P 0 e b Q h -1 H e / o p p s
+Pass 5: C 0 -6 U P 0 W b Q e -1 H e / h o p p s
+Pass 6: 0 -6 C P 0 U W Q b -1 H e / e h o p p s
+Pass 7: -6 0 C 0 P U Q W -1 H b / e e h o p p s
+Pass 8: -6 0 0 C P Q U -1 H W / b e e h o p p s
+Pass 9: -6 0 0 C P Q -1 H U / W b e e h o p p s
+Pass 10: -6 0 0 C P -1 H Q / U W b e e h o p p s
+Pass 11: -6 0 0 C -1 H P / Q U W b e e h o p p s
+Pass 12: -6 0 0 -1 C H / P Q U W b e e h o p p s
+Pass 13: -6 0 -1 0 C / H P Q U W b e e h o p p s
+Pass 14: -6 -1 0 0 / C H P Q U W b e e h o p p s
+
+Pass 0: p r e u M 5 7 -2 t r N g U 0 T h 6 o T /
+Pass 1: p e r M 5 7 -2 t r N g U 0 T h 6 o T / u
+Pass 2: e p M 5 7 -2 r r N g U 0 T h 6 o T / t u
+Pass 3: e M 5 7 -2 p r N g U 0 T h 6 o T / r t u
+Pass 4: M 5 7 -2 e p N g U 0 T h 6 o T / r r t u
+Pass 5: 5 7 -2 M e N g U 0 T h 6 o T / p r r t u
+Pass 6: 5 -2 7 M N e U 0 T g 6 h T / o p r r t u
+Pass 7: -2 5 7 M N U 0 T e 6 g T / h o p r r t u
+Pass 8: -2 5 7 M N 0 T U 6 e T / g h o p r r t u
+Pass 9: -2 5 7 M 0 N T 6 U T / e g h o p r r t u
+Pass 10: -2 5 7 0 M N 6 T T / U e g h o p r r t u
+Pass 11: -2 5 0 7 M 6 N T / T U e g h o p r r t u
+Pass 12: -2 0 5 7 6 M N / T T U e g h o p r r t u
+Pass 13: -2 0 5 6 7 M / N T T U e g h o p r r t u
+
+Pass 0: g C e c U r -1 n G q 5 1 e S l L /
+Pass 1: C e c U g -1 n G q 5 1 e S l L / r
+Pass 2: C c U e -1 g G n 5 1 e S l L / q r
+Pass 3: C U c -1 e G g 5 1 e S l L / n q r
+Pass 4: C U -1 c G e 5 1 e S g L / l n q r
+Pass 5: C -1 U G c 5 1 e S e L / g l n q r
+Pass 6: -1 C G U 5 1 c S e L / e g l n q r
+Pass 7: -1 C G 5 1 U S c L / e e g l n q r
+Pass 8: -1 C 5 1 G S U L / c e e g l n q r
+Pass 9: -1 5 1 C G S L / U c e e g l n q r
+Pass 10: -1 1 5 C G L / S U c e e g l n q r
+
+Pass 0: -4 -8 U 4 V V 5 T K K U p K g V k -8 /
+Pass 1: -8 -4 4 U V 5 T K K U V K g V k -8 / p
+Pass 2: -8 -4 4 U 5 T K K U V K V V g -8 / k p
+Pass 3: -8 -4 4 5 T K K U U K V V V -8 / g k p
+Pass 4: -8 -4 4 5 K K T U K U V V -8 / V g k p
+Pass 5: -8 -4 4 5 K K T K U U V -8 / V V g k p
+Pass 6: -8 -4 4 5 K K K T U U -8 / V V V g k p
+Pass 7: -8 -4 4 5 K K K T U -8 / U V V V g k p
+Pass 8: -8 -4 4 5 K K K T -8 / U U V V V g k p
+Pass 9: -8 -4 4 5 K K K -8 / T U U V V V g k p
+Pass 10: -8 -4 4 5 K K -8 / K T U U V V V g k p
+Pass 11: -8 -4 4 5 K -8 / K K T U U V V V g k p
+Pass 12: -8 -4 4 5 -8 / K K K T U U V V V g k p
+Pass 13: -8 -4 4 -8 / 5 K K K T U U V V V g k p
+Pass 14: -8 -4 -8 / 4 5 K K K T U U V V V g k p
+Pass 15: -8 -8 / -4 4 5 K K K T U U V V V g k p
+
+Pass 0: B 1 2 j L C l J J k e 2 w a U /
+Pass 1: 1 2 B L C j J J k e 2 l a U / w
+Pass 2: 1 2 B C L J J j e 2 k a U / l w
+Pass 3: 1 2 B C J J L e 2 j a U / k l w
+Pass 4: 1 2 B C J J L 2 e a U / j k l w
+Pass 5: 1 2 B C J J 2 L a U / e j k l w
+Pass 6: 1 2 B C J 2 J L U / a e j k l w
+Pass 7: 1 2 B C 2 J J L / U a e j k l w
+Pass 8: 1 2 B 2 C J J / L U a e j k l w
+Pass 9: 1 2 2 B C J / J L U a e j k l w
+
+Pass 0: -6 W -9 N v K U h N J K L p n 4 4 -9 O /
+Pass 1: -6 -9 N W K U h N J K L p n 4 4 -9 O / v
+Pass 2: -9 -6 N K U W N J K L h n 4 4 -9 O / p v
+Pass 3: -9 -6 K N U N J K L W h 4 4 -9 O / n p v
+Pass 4: -9 -6 K N N J K L U W 4 4 -9 O / h n p v
+Pass 5: -9 -6 K N J K L N U 4 4 -9 O / W h n p v
+Pass 6: -9 -6 K J K L N N 4 4 -9 O / U W h n p v
+Pass 7: -9 -6 J K K L N 4 4 -9 N / O U W h n p v
+Pass 8: -9 -6 J K K L 4 4 -9 N / N O U W h n p v
+Pass 9: -9 -6 J K K 4 4 -9 L / N N O U W h n p v
+Pass 10: -9 -6 J K 4 4 -9 K / L N N O U W h n p v
+Pass 11: -9 -6 J 4 4 -9 K / K L N N O U W h n p v
+Pass 12: -9 -6 4 4 -9 J / K K L N N O U W h n p v
+Pass 13: -9 -6 4 -9 4 / J K K L N N O U W h n p v
+Pass 14: -9 -6 -9 4 / 4 J K K L N N O U W h n p v
+Pass 15: -9 -9 -6 / 4 4 J K K L N N O U W h n p v
+
+Pass 0: O B 2 I -3 D A f o A y /
+Pass 1: B 2 I -3 D A O f A o / y
+Pass 2: 2 B -3 D A I O A f / o y
+Pass 3: 2 -3 B A D I A O / f o y
+Pass 4: -3 2 A B D A I / O f o y
+Pass 5: -3 2 A B A D / I O f o y
+Pass 6: -3 2 A A B / D I O f o y
+
+Pass 0: P h e b -3 -2 x t -4 J i 2 L Q v K H /
+Pass 1: P e b -3 -2 h t -4 J i 2 L Q v K H / x
+Pass 2: P b -3 -2 e h -4 J i 2 L Q t K H / v x
+Pass 3: P -3 -2 b e -4 J h 2 L Q i K H / t v x
+Pass 4: -3 -2 P b -4 J e 2 L Q h K H / i t v x
+Pass 5: -3 -2 P -4 J b 2 L Q e K H / h i t v x
+Pass 6: -3 -2 -4 J P 2 L Q b K H / e h i t v x
+Pass 7: -3 -4 -2 J 2 L P Q K H / b e h i t v x
+Pass 8: -4 -3 -2 2 J L P K H / Q b e h i t v x
+Pass 9: -4 -3 -2 2 J L K H / P Q b e h i t v x
+Pass 10: -4 -3 -2 2 J K H / L P Q b e h i t v x
+Pass 11: -4 -3 -2 2 J H / K L P Q b e h i t v x
+Pass 12: -4 -3 -2 2 H / J K L P Q b e h i t v x
+
+Pass 0: x N A -4 K C C -5 o 0 M 4 J J 0 g /
+Pass 1: N A -4 K C C -5 o 0 M 4 J J 0 g / x
+Pass 2: A -4 K C C -5 N 0 M 4 J J 0 g / o x
+Pass 3: -4 A C C -5 K 0 M 4 J J 0 N / g o x
+Pass 4: -4 A C -5 C 0 K 4 J J 0 M / N g o x
+Pass 5: -4 A -5 C 0 C 4 J J 0 K / M N g o x
+Pass 6: -4 -5 A 0 C 4 C J 0 J / K M N g o x
+Pass 7: -5 -4 0 A 4 C C 0 J / J K M N g o x
+Pass 8: -5 -4 0 4 A C 0 C / J J K M N g o x
+Pass 9: -5 -4 0 4 A 0 C / C J J K M N g o x
+Pass 10: -5 -4 0 4 0 A / C C J J K M N g o x
+Pass 11: -5 -4 0 0 4 / A C C J J K M N g o x
+
+Pass 0: C d 2 M n 4 I -5 3 k a l 2 o -5 z A /
+Pass 1: C 2 M d 4 I -5 3 k a l 2 n -5 o A / z
+Pass 2: 2 C M 4 I -5 3 d a k 2 l -5 n A / o z
+Pass 3: 2 C 4 I -5 3 M a d 2 k -5 l A / n o z
+Pass 4: 2 4 C -5 3 I M a 2 d -5 k A / l n o z
+Pass 5: 2 4 -5 3 C I M 2 a -5 d A / k l n o z
+Pass 6: 2 -5 3 4 C I 2 M -5 a A / d k l n o z
+Pass 7: -5 2 3 4 C 2 I -5 M A / a d k l n o z
+Pass 8: -5 2 3 4 2 C -5 I A / M a d k l n o z
+Pass 9: -5 2 3 2 4 -5 C A / I M a d k l n o z
+Pass 10: -5 2 2 3 -5 4 A / C I M a d k l n o z
+Pass 11: -5 2 2 -5 3 4 / A C I M a d k l n o z
+Pass 12: -5 2 -5 2 3 / 4 A C I M a d k l n o z
+Pass 13: -5 -5 2 2 / 3 4 A C I M a d k l n o z
+
+Pass 0: A S -7 -4 -7 N 7 l u 1 /
+Pass 1: A -7 -4 -7 N 7 S l 1 / u
+Pass 2: -7 -4 -7 A 7 N S 1 / l u
+Pass 3: -7 -7 -4 7 A N 1 / S l u
+Pass 4: -7 -7 -4 7 A 1 / N S l u
+Pass 5: -7 -7 -4 7 1 / A N S l u
+Pass 6: -7 -7 -4 1 / 7 A N S l u
+
+Pass 0: s 3 l g n I n -8 1 Q -6 p 3 L d b /
+Pass 1: 3 l g n I n -8 1 Q -6 p 3 L d b / s
+Pass 2: 3 g l I n -8 1 Q -6 n 3 L d b / p s
+Pass 3: 3 g I l -8 1 Q -6 n 3 L d b / n p s
+Pass 4: 3 I g -8 1 Q -6 l 3 L d b / n n p s
+Pass 5: 3 I -8 1 Q -6 g 3 L d b / l n n p s
+Pass 6: 3 -8 1 I -6 Q 3 L d b / g l n n p s
+Pass 7: -8 1 3 -6 I 3 L Q b / d g l n n p s
+Pass 8: -8 1 -6 3 3 I L Q / b d g l n n p s
+Pass 9: -8 -6 1 3 3 I L / Q b d g l n n p s
+
+Pass 0: p B q c -7 e z t C s 2 o B z u O e /
+Pass 1: B p c -7 e q t C s 2 o B z u O e / z
+Pass 2: B c -7 e p q C s 2 o B t u O e / z z
+Pass 3: B -7 c e p C q 2 o B s t O e / u z z
+Pass 4: -7 B c e C p 2 o B q s O e / t u z z
+Pass 5: -7 B c C e 2 o B p q O e / s t u z z
+Pass 6: -7 B C c 2 e B o p O e / q s t u z z
+Pass 7: -7 B C 2 c B e o O e / p q s t u z z
+Pass 8: -7 B 2 C B c e O e / o p q s t u z z
+Pass 9: -7 2 B B C c O e / e o p q s t u z z
+Pass 10: -7 2 B B C O c / e e o p q s t u z z
+
+Pass 0: V e -1 2 N C 3 2 -9 -8 k U m P /
+Pass 1: V -1 2 N C 3 2 -9 -8 e U k P / m
+Pass 2: -1 2 N C 3 2 -9 -8 V U e P / k m
+Pass 3: -1 2 C 3 2 -9 -8 N U V P / e k m
+Pass 4: -1 2 3 2 -9 -8 C N U P / V e k m
+Pass 5: -1 2 2 -9 -8 3 C N P / U V e k m
+Pass 6: -1 2 -9 -8 2 3 C N / P U V e k m
+Pass 7: -1 -9 -8 2 2 3 C / N P U V e k m
+Pass 8: -9 -8 -1 2 2 3 / C N P U V e k m
+
+Pass 0: V 7 J o r V Q F r 2 k i I s P u 8 /
+Pass 1: 7 J V o V Q F r 2 k i I r P s 8 / u
+Pass 2: 7 J V V Q F o 2 k i I r P r 8 / s u
+Pass 3: 7 J V Q F V 2 k i I o P r 8 / r s u
+Pass 4: 7 J Q F V 2 V i I k P o 8 / r r s u
+Pass 5: 7 J F Q 2 V V I i P k 8 / o r r s u
+Pass 6: 7 F J 2 Q V I V P i 8 / k o r r s u
+Pass 7: 7 F 2 J Q I V P V 8 / i k o r r s u
+Pass 8: 7 2 F J I Q P V 8 / V i k o r r s u
+Pass 9: 2 7 F I J P Q 8 / V V i k o r r s u
+Pass 10: 2 7 F I J P 8 / Q V V i k o r r s u
+Pass 11: 2 7 F I J 8 / P Q V V i k o r r s u
+Pass 12: 2 7 F I 8 / J P Q V V i k o r r s u
+Pass 13: 2 7 F 8 / I J P Q V V i k o r r s u
+Pass 14: 2 7 8 / F I J P Q V V i k o r r s u
+
+Pass 0: M E -3 -6 g 0 -5 L K Q k b c /
+Pass 1: E -3 -6 M 0 -5 L K Q g b c / k
+Pass 2: -3 -6 E 0 -5 L K M Q b c / g k
+Pass 3: -6 -3 0 -5 E K L M Q b / c g k
+Pass 4: -6 -3 -5 0 E K L M Q / b c g k
+Pass 5: -6 -5 -3 0 E K L M / Q b c g k
+
+Pass 0: 5 H 2 8 7 n z O A f K 7 /
+Pass 1: 5 2 8 7 H n O A f K 7 / z
+Pass 2: 2 5 7 8 H O A f K 7 / n z
+Pass 3: 2 5 7 8 H A O K 7 / f n z
+Pass 4: 2 5 7 8 A H K 7 / O f n z
+Pass 5: 2 5 7 8 A H 7 / K O f n z
+Pass 6: 2 5 7 8 A 7 / H K O f n z
+Pass 7: 2 5 7 8 7 / A H K O f n z
+Pass 8: 2 5 7 7 / 8 A H K O f n z
+
+Pass 0: -5 v C 4 C O a U L K c x r y z -9 i 4 O /
+Pass 1: -5 C 4 C O a U L K c v r x y -9 i 4 O / z
+Pass 2: -5 4 C C O U L K a c r v x -9 i 4 O / y z
+Pass 3: -5 4 C C O L K U a c r v -9 i 4 O / x y z
+Pass 4: -5 4 C C L K O U a c r -9 i 4 O / v x y z
+Pass 5: -5 4 C C K L O U a c -9 i 4 O / r v x y z
+Pass 6: -5 4 C C K L O U a -9 c 4 O / i r v x y z
+Pass 7: -5 4 C C K L O U -9 a 4 O / c i r v x y z
+Pass 8: -5 4 C C K L O -9 U 4 O / a c i r v x y z
+Pass 9: -5 4 C C K L -9 O 4 O / U a c i r v x y z
+Pass 10: -5 4 C C K -9 L 4 O / O U a c i r v x y z
+Pass 11: -5 4 C C -9 K 4 L / O O U a c i r v x y z
+Pass 12: -5 4 C -9 C 4 K / L O O U a c i r v x y z
+Pass 13: -5 4 -9 C 4 C / K L O O U a c i r v x y z
+Pass 14: -5 -9 4 4 C / C K L O O U a c i r v x y z
+Pass 15: -9 -5 4 4 / C C K L O O U a c i r v x y z
+
+Pass 0: i z h 7 8 r m -3 s V -9 -9 I N r 7 r v /
+Pass 1: i h 7 8 r m -3 s V -9 -9 I N r 7 r v / z
+Pass 2: h 7 8 i m -3 r V -9 -9 I N r 7 r s / v z
+Pass 3: 7 8 h i -3 m V -9 -9 I N r 7 r r / s v z
+Pass 4: 7 8 h -3 i V -9 -9 I N m 7 r r / r s v z
+Pass 5: 7 8 -3 h V -9 -9 I N i 7 m r / r r s v z
+Pass 6: 7 -3 8 V -9 -9 I N h 7 i m / r r r s v z
+Pass 7: -3 7 8 -9 -9 I N V 7 h i / m r r r s v z
+Pass 8: -3 7 -9 -9 8 I N 7 V h / i m r r r s v z
+Pass 9: -3 -9 -9 7 8 I 7 N V / h i m r r r s v z
+Pass 10: -9 -9 -3 7 8 7 I N / V h i m r r r s v z
+Pass 11: -9 -9 -3 7 7 8 I / N V h i m r r r s v z
+
+Pass 0: 0 L B -3 c M v 2 L -1 i u R Q P s n i /
+Pass 1: 0 B -3 L M c 2 L -1 i u R Q P s n i / v
+Pass 2: 0 -3 B L M 2 L -1 c i R Q P s n i / u v
+Pass 3: -3 0 B L 2 L -1 M c R Q P i n i / s u v
+Pass 4: -3 0 B 2 L -1 L M R Q P c i i / n s u v
+Pass 5: -3 0 2 B -1 L L M Q P R c i / i n s u v
+Pass 6: -3 0 2 -1 B L L M P Q R c / i i n s u v
+Pass 7: -3 0 -1 2 B L L M P Q R / c i i n s u v
+Pass 8: -3 -1 0 2 B L L M P Q / R c i i n s u v
+
+Pass 0: w M D D m R a R c t n -9 x n I N /
+Pass 1: M D D m R a R c t n -9 w n I N / x
+Pass 2: D D M R a R c m n -9 t n I N / w x
+Pass 3: D D M R R a c m -9 n n I N / t w x
+Pass 4: D D M R R a c -9 m n I N / n t w x
+Pass 5: D D M R R a -9 c m I N / n n t w x
+Pass 6: D D M R R -9 a c I N / m n n t w x
+Pass 7: D D M R -9 R a I N / c m n n t w x
+Pass 8: D D M -9 R R I N / a c m n n t w x
+Pass 9: D D -9 M R I N / R a c m n n t w x
+Pass 10: D -9 D M I N / R R a c m n n t w x
+Pass 11: -9 D D I M / N R R a c m n n t w x
+
+Pass 0: l -6 y w W W T 6 O -8 /
+Pass 1: -6 l w W W T 6 O -8 / y
+Pass 2: -6 l W W T 6 O -8 / w y
+Pass 3: -6 W W T 6 O -8 / l w y
+Pass 4: -6 W T 6 O -8 / W l w y
+Pass 5: -6 T 6 O -8 / W W l w y
+Pass 6: -6 6 O -8 / T W W l w y
+Pass 7: -6 6 -8 / O T W W l w y
+Pass 8: -6 -8 / 6 O T W W l w y
+Pass 9: -8 / -6 6 O T W W l w y
+
+Pass 0: k A D E k -8 -2 t -4 e T /
+Pass 1: A D E k -8 -2 k -4 e T / t
+Pass 2: A D E -8 -2 k -4 e T / k t
+Pass 3: A D -8 -2 E -4 e T / k k t
+Pass 4: A -8 -2 D -4 E T / e k k t
+Pass 5: -8 -2 A -4 D E / T e k k t
+Pass 6: -8 -2 -4 A D / E T e k k t
+Pass 7: -8 -4 -2 A / D E T e k k t
+
+Pass 0: 1 -5 K c D j 0 -3 A q l W F 3 /
+Pass 1: -5 1 K D c 0 -3 A j l W F 3 / q
+Pass 2: -5 1 D K 0 -3 A c j W F 3 / l q
+Pass 3: -5 1 D 0 -3 A K c W F 3 / j l q
+Pass 4: -5 1 0 -3 A D K W F 3 / c j l q
+Pass 5: -5 0 -3 1 A D K F 3 / W c j l q
+Pass 6: -5 -3 0 1 A D F 3 / K W c j l q
+Pass 7: -5 -3 0 1 A D 3 / F K W c j l q
+Pass 8: -5 -3 0 1 A 3 / D F K W c j l q
+Pass 9: -5 -3 0 1 3 / A D F K W c j l q
+
+Pass 0: 3 S J 7 h m Q E B K Q a 5 /
+Pass 1: 3 J 7 S h Q E B K Q a 5 / m
+Pass 2: 3 7 J S Q E B K Q a 5 / h m
+Pass 3: 3 7 J Q E B K Q S 5 / a h m
+Pass 4: 3 7 J E B K Q Q 5 / S a h m
+Pass 5: 3 7 E B J K Q 5 / Q S a h m
+Pass 6: 3 7 B E J K 5 / Q Q S a h m
+Pass 7: 3 7 B E J 5 / K Q Q S a h m
+Pass 8: 3 7 B E 5 / J K Q Q S a h m
+Pass 9: 3 7 B 5 / E J K Q Q S a h m
+Pass 10: 3 7 5 / B E J K Q Q S a h m
+Pass 11: 3 5 / 7 B E J K Q Q S a h m
+
+Pass 0: x -7 -2 i T U D 6 O 4 p -3 Q I U y a 8 -3 /
+Pass 1: -7 -2 i T U D 6 O 4 p -3 Q I U x a 8 -3 / y
+Pass 2: -7 -2 T U D 6 O 4 i -3 Q I U p a 8 -3 / x y
+Pass 3: -7 -2 T D 6 O 4 U -3 Q I U i a 8 -3 / p x y
+Pass 4: -7 -2 D 6 O 4 T -3 Q I U U a 8 -3 / i p x y
+Pass 5: -7 -2 6 D 4 O -3 Q I T U U 8 -3 / a i p x y
+Pass 6: -7 -2 6 4 D -3 O I Q T U 8 -3 / U a i p x y
+Pass 7: -7 -2 4 6 -3 D I O Q T 8 -3 / U U a i p x y
+Pass 8: -7 -2 4 -3 6 D I O Q 8 -3 / T U U a i p x y
+Pass 9: -7 -2 -3 4 6 D I O 8 -3 / Q T U U a i p x y
+Pass 10: -7 -3 -2 4 6 D I 8 -3 / O Q T U U a i p x y
+Pass 11: -7 -3 -2 4 6 D 8 -3 / I O Q T U U a i p x y
+Pass 12: -7 -3 -2 4 6 8 -3 / D I O Q T U U a i p x y
+Pass 13: -7 -3 -2 4 6 -3 / 8 D I O Q T U U a i p x y
+Pass 14: -7 -3 -2 4 -3 / 6 8 D I O Q T U U a i p x y
+Pass 15: -7 -3 -2 -3 / 4 6 8 D I O Q T U U a i p x y
+Pass 16: -7 -3 -3 / -2 4 6 8 D I O Q T U U a i p x y
+
+Pass 0: k 1 0 U -3 V b j S 7 f /
+Pass 1: 1 0 U -3 V b j S 7 f / k
+Pass 2: 0 1 -3 U V b S 7 f / j k
+Pass 3: 0 -3 1 U V S 7 b / f j k
+Pass 4: -3 0 1 U S 7 V / b f j k
+Pass 5: -3 0 1 S 7 U / V b f j k
+Pass 6: -3 0 1 7 S / U V b f j k
+
+Pass 0: q h L E a A j G m Q O /
+Pass 1: h L E a A j G m Q O / q
+Pass 2: L E a A h G j Q O / m q
+Pass 3: E L A a G h Q O / j m q
+Pass 4: E A L G a Q O / h j m q
+Pass 5: A E G L Q O / a h j m q
+Pass 6: A E G L O / Q a h j m q
+
+Pass 0: k 4 I B a 4 R L C m m /
+Pass 1: 4 I B a 4 R L C k m / m
+Pass 2: 4 B I 4 R L C a k / m m
+Pass 3: 4 B 4 I L C R a / k m m
+Pass 4: 4 4 B I C L R / a k m m
+Pass 5: 4 4 B C I L / R a k m m
+
+Pass 0: p C h z -3 5 W s B -1 J O p /
+Pass 1: C h p -3 5 W s B -1 J O p / z
+Pass 2: C h -3 5 W p B -1 J O p / s z
+Pass 3: C -3 5 W h B -1 J O p / p s z
+Pass 4: -3 5 C W B -1 J O h / p p s z
+Pass 5: -3 5 C B -1 J O W / h p p s z
+Pass 6: -3 5 B -1 C J O / W h p p s z
+Pass 7: -3 5 -1 B C J / O W h p p s z
+Pass 8: -3 -1 5 B C / J O W h p p s z
+
+Pass 0: W M 9 n c 9 8 -6 N h 1 e -8 s /
+Pass 1: M 9 W c 9 8 -6 N h 1 e -8 n / s
+Pass 2: 9 M W 9 8 -6 N c 1 e -8 h / n s
+Pass 3: 9 M 9 8 -6 N W 1 c -8 e / h n s
+Pass 4: 9 9 8 -6 M N 1 W -8 c / e h n s
+Pass 5: 9 8 -6 9 M 1 N -8 W / c e h n s
+Pass 6: 8 -6 9 9 1 M -8 N / W c e h n s
+Pass 7: -6 8 9 1 9 -8 M / N W c e h n s
+Pass 8: -6 8 1 9 -8 9 / M N W c e h n s
+Pass 9: -6 1 8 -8 9 / 9 M N W c e h n s
+Pass 10: -6 1 -8 8 / 9 9 M N W c e h n s
+Pass 11: -6 -8 1 / 8 9 9 M N W c e h n s
+Pass 12: -8 -6 / 1 8 9 9 M N W c e h n s
+
+Pass 0: t c -7 W G 0 A -3 r -5 4 R j r g C /
+Pass 1: c -7 W G 0 A -3 r -5 4 R j r g C / t
+Pass 2: -7 W G 0 A -3 c -5 4 R j r g C / r t
+Pass 3: -7 G 0 A -3 W -5 4 R c j g C / r r t
+Pass 4: -7 0 A -3 G -5 4 R W c g C / j r r t
+Pass 5: -7 0 -3 A -5 4 G R W c C / g j r r t
+Pass 6: -7 -3 0 -5 4 A G R W C / c g j r r t
+Pass 7: -7 -3 -5 0 4 A G R C / W c g j r r t
+Pass 8: -7 -5 -3 0 4 A G C / R W c g j r r t
+Pass 9: -7 -5 -3 0 4 A C / G R W c g j r r t
+
+Pass 0: w D V f -6 h y 0 r -9 S u O S /
+Pass 1: D V f -6 h w 0 r -9 S u O S / y
+Pass 2: D V -6 f h 0 r -9 S u O S / w y
+Pass 3: D -6 V f 0 h -9 S r O S / u w y
+Pass 4: -6 D V 0 f -9 S h O S / r u w y
+Pass 5: -6 D 0 V -9 S f O S / h r u w y
+Pass 6: -6 0 D -9 S V O S / f h r u w y
+Pass 7: -6 0 -9 D S O S / V f h r u w y
+Pass 8: -6 -9 0 D O S / S V f h r u w y
+Pass 9: -9 -6 0 D O / S S V f h r u w y
+
+Pass 0: I B c -1 e w Q 6 b 6 3 -4 c n j f /
+Pass 1: B I -1 c e Q 6 b 6 3 -4 c n j f / w
+Pass 2: B -1 I c Q 6 b 6 3 -4 c e j f / n w
+Pass 3: -1 B I Q 6 b 6 3 -4 c c e f / j n w
+Pass 4: -1 B I 6 Q 6 3 -4 b c c e / f j n w
+Pass 5: -1 B 6 I 6 3 -4 Q b c c / e f j n w
+Pass 6: -1 6 B 6 3 -4 I Q b c / c e f j n w
+Pass 7: -1 6 6 3 -4 B I Q b / c c e f j n w
+Pass 8: -1 6 3 -4 6 B I Q / b c c e f j n w
+Pass 9: -1 3 -4 6 6 B I / Q b c c e f j n w
+Pass 10: -1 -4 3 6 6 B / I Q b c c e f j n w
+Pass 11: -4 -1 3 6 6 / B I Q b c c e f j n w
+
+Pass 0: O r N 6 V -1 I a o t N b K 8 2 /
+Pass 1: O N 6 V -1 I a o r N b K 8 2 / t
+Pass 2: N 6 O -1 I V a o N b K 8 2 / r t
+Pass 3: 6 N -1 I O V a N b K 8 2 / o r t
+Pass 4: 6 -1 I N O V N a K 8 2 / b o r t
+Pass 5: -1 6 I N O N V K 8 2 / a b o r t
+Pass 6: -1 6 I N N O K 8 2 / V a b o r t
+Pass 7: -1 6 I N N K 8 2 / O V a b o r t
+Pass 8: -1 6 I N K 8 2 / N O V a b o r t
+Pass 9: -1 6 I K 8 2 / N N O V a b o r t
+Pass 10: -1 6 I 8 2 / K N N O V a b o r t
+Pass 11: -1 6 8 2 / I K N N O V a b o r t
+Pass 12: -1 6 2 / 8 I K N N O V a b o r t
+Pass 13: -1 2 / 6 8 I K N N O V a b o r t
+
+Pass 0: y -8 Q S -4 S 0 r G S /
+Pass 1: -8 Q S -4 S 0 r G S / y
+Pass 2: -8 Q -4 S 0 S G S / r y
+Pass 3: -8 -4 Q 0 S G S / S r y
+Pass 4: -8 -4 0 Q G S / S S r y
+Pass 5: -8 -4 0 G Q / S S S r y
+
+Pass 0: n N -6 y -6 4 -4 F 5 t -1 -8 K -7 O -6 6 5 m /
+Pass 1: N -6 n -6 4 -4 F 5 t -1 -8 K -7 O -6 6 5 m / y
+Pass 2: -6 N -6 4 -4 F 5 n -1 -8 K -7 O -6 6 5 m / t y
+Pass 3: -6 -6 4 -4 F 5 N -1 -8 K -7 O -6 6 5 m / n t y
+Pass 4: -6 -6 -4 4 5 F -1 -8 K -7 N -6 6 5 O / m n t y
+Pass 5: -6 -6 -4 4 5 -1 -8 F -7 K -6 6 5 N / O m n t y
+Pass 6: -6 -6 -4 4 -1 -8 5 -7 F -6 6 5 K / N O m n t y
+Pass 7: -6 -6 -4 -1 -8 4 -7 5 -6 6 5 F / K N O m n t y
+Pass 8: -6 -6 -4 -8 -1 -7 4 -6 5 5 6 / F K N O m n t y
+Pass 9: -6 -6 -8 -4 -7 -1 -6 4 5 5 / 6 F K N O m n t y
+Pass 10: -6 -8 -6 -7 -4 -6 -1 4 5 / 5 6 F K N O m n t y
+Pass 11: -8 -6 -7 -6 -6 -4 -1 4 / 5 5 6 F K N O m n t y
+Pass 12: -8 -7 -6 -6 -6 -4 -1 / 4 5 5 6 F K N O m n t y
+
+Pass 0: F -6 p E 2 F C c I z r -7 t i d l c h 3 /
+Pass 1: -6 F E 2 F C c I p r -7 t i d l c h 3 / z
+Pass 2: -6 E 2 F C F I c p -7 r i d l c h 3 / t z
+Pass 3: -6 2 E C F F I c -7 p i d l c h 3 / r t z
+Pass 4: -6 2 C E F F I -7 c i d l c h 3 / p r t z
+Pass 5: -6 2 C E F F -7 I c d i c h 3 / l p r t z
+Pass 6: -6 2 C E F -7 F I c d c h 3 / i l p r t z
+Pass 7: -6 2 C E -7 F F I c c d 3 / h i l p r t z
+Pass 8: -6 2 C -7 E F F I c c 3 / d h i l p r t z
+Pass 9: -6 2 -7 C E F F I c 3 / c d h i l p r t z
+Pass 10: -6 -7 2 C E F F I 3 / c c d h i l p r t z
+Pass 11: -7 -6 2 C E F F 3 / I c c d h i l p r t z
+Pass 12: -7 -6 2 C E F 3 / F I c c d h i l p r t z
+Pass 13: -7 -6 2 C E 3 / F F I c c d h i l p r t z
+Pass 14: -7 -6 2 C 3 / E F F I c c d h i l p r t z
+Pass 15: -7 -6 2 3 / C E F F I c c d h i l p r t z
+
+Pass 0: E -7 2 F m N v J f O g 6 M -2 U -7 -2 O t /
+Pass 1: -7 2 E F N m J f O g 6 M -2 U -7 -2 O t / v
+Pass 2: -7 2 E F N J f O g 6 M -2 U -7 -2 O m / t v
+Pass 3: -7 2 E F J N O f 6 M -2 U -7 -2 O g / m t v
+Pass 4: -7 2 E F J N O 6 M -2 U -7 -2 O f / g m t v
+Pass 5: -7 2 E F J N 6 M -2 O -7 -2 O U / f g m t v
+Pass 6: -7 2 E F J 6 M -2 N -7 -2 O O / U f g m t v
+Pass 7: -7 2 E F 6 J -2 M -7 -2 N O / O U f g m t v
+Pass 8: -7 2 E 6 F -2 J -7 -2 M N / O O U f g m t v
+Pass 9: -7 2 6 E -2 F -7 -2 J M / N O O U f g m t v
+Pass 10: -7 2 6 -2 E -7 -2 F J / M N O O U f g m t v
+Pass 11: -7 2 -2 6 -7 -2 E F / J M N O O U f g m t v
+Pass 12: -7 -2 2 -7 -2 6 E / F J M N O O U f g m t v
+Pass 13: -7 -2 -7 -2 2 6 / E F J M N O O U f g m t v
+Pass 14: -7 -7 -2 -2 2 / 6 E F J M N O O U f g m t v
+
+Pass 0: K W d O P u -3 -9 -3 O f c u x i a 7 /
+Pass 1: K W O P d -3 -9 -3 O f c u u i a 7 / x
+Pass 2: K O P W -3 -9 -3 O d c f u i a 7 / u x
+Pass 3: K O P -3 -9 -3 O W c d f i a 7 / u u x
+Pass 4: K O -3 -9 -3 O P W c d f a 7 / i u u x
+Pass 5: K -3 -9 -3 O O P W c d a 7 / f i u u x
+Pass 6: -3 -9 -3 K O O P W c a 7 / d f i u u x
+Pass 7: -9 -3 -3 K O O P W a 7 / c d f i u u x
+Pass 8: -9 -3 -3 K O O P W 7 / a c d f i u u x
+Pass 9: -9 -3 -3 K O O P 7 / W a c d f i u u x
+Pass 10: -9 -3 -3 K O O 7 / P W a c d f i u u x
+Pass 11: -9 -3 -3 K O 7 / O P W a c d f i u u x
+Pass 12: -9 -3 -3 K 7 / O O P W a c d f i u u x
+Pass 13: -9 -3 -3 7 / K O O P W a c d f i u u x
+
+Pass 0: 2 b O 2 L 2 t 2 7 a -2 /
+Pass 1: 2 O 2 L 2 b 2 7 a -2 / t
+Pass 2: 2 2 L 2 O 2 7 a -2 / b t
+Pass 3: 2 2 2 L 2 7 O -2 / a b t
+Pass 4: 2 2 2 2 7 L -2 / O a b t
+Pass 5: 2 2 2 2 7 -2 / L O a b t
+Pass 6: 2 2 2 2 -2 / 7 L O a b t
+Pass 7: 2 2 2 -2 / 2 7 L O a b t
+Pass 8: 2 2 -2 / 2 2 7 L O a b t
+Pass 9: 2 -2 / 2 2 2 7 L O a b t
+Pass 10: -2 / 2 2 2 2 7 L O a b t
+
+Pass 0: -2 h w -1 -7 x E 4 s 0 9 u N /
+Pass 1: -2 h -1 -7 w E 4 s 0 9 u N / x
+Pass 2: -2 -1 -7 h E 4 s 0 9 u N / w x
+Pass 3: -2 -7 -1 E 4 h 0 9 s N / u w x
+Pass 4: -7 -2 -1 4 E 0 9 h N / s u w x
+Pass 5: -7 -2 -1 4 0 9 E N / h s u w x
+Pass 6: -7 -2 -1 0 4 9 E / N h s u w x
+
+Pass 0: B S i 9 1 8 -7 -2 v -7 -6 -3 y /
+Pass 1: B S 9 1 8 -7 -2 i -7 -6 -3 v / y
+Pass 2: B 9 1 8 -7 -2 S -7 -6 -3 i / v y
+Pass 3: 9 1 8 -7 -2 B -7 -6 -3 S / i v y
+Pass 4: 1 8 -7 -2 9 -7 -6 -3 B / S i v y
+Pass 5: 1 -7 -2 8 -7 -6 -3 9 / B S i v y
+Pass 6: -7 -2 1 -7 -6 -3 8 / 9 B S i v y
+Pass 7: -7 -2 -7 -6 -3 1 / 8 9 B S i v y
+Pass 8: -7 -7 -6 -3 -2 / 1 8 9 B S i v y
+
+Pass 0: -3 T -7 m 6 L I 5 h q /
+Pass 1: -3 -7 T 6 L I 5 h m / q
+Pass 2: -7 -3 6 L I 5 T h / m q
+Pass 3: -7 -3 6 I 5 L T / h m q
+Pass 4: -7 -3 6 5 I L / T h m q
+Pass 5: -7 -3 5 6 I / L T h m q
+
+Pass 0: F l 0 -4 2 M g j c -5 -3 -8 c 4 n 1 S 9 /
+Pass 1: F 0 -4 2 M g j c -5 -3 -8 c 4 l 1 S 9 / n
+Pass 2: 0 -4 2 F M g c -5 -3 -8 c 4 j 1 S 9 / l n
+Pass 3: -4 0 2 F M c -5 -3 -8 c 4 g 1 S 9 / j l n
+Pass 4: -4 0 2 F M -5 -3 -8 c 4 c 1 S 9 / g j l n
+Pass 5: -4 0 2 F -5 -3 -8 M 4 c 1 S 9 / c g j l n
+Pass 6: -4 0 2 -5 -3 -8 F 4 M 1 S 9 / c c g j l n
+Pass 7: -4 0 -5 -3 -8 2 4 F 1 M 9 / S c c g j l n
+Pass 8: -4 -5 -3 -8 0 2 4 1 F 9 / M S c c g j l n
+Pass 9: -5 -4 -8 -3 0 2 1 4 9 / F M S c c g j l n
+Pass 10: -5 -8 -4 -3 0 1 2 4 / 9 F M S c c g j l n
+Pass 11: -8 -5 -4 -3 0 1 2 / 4 9 F M S c c g j l n
+
+Pass 0: J Q -9 B w N -9 n Q x Q C r 0 x 6 6 m c /
+Pass 1: J -9 B Q N -9 n Q w Q C r 0 x 6 6 m c / x
+Pass 2: -9 B J N -9 Q Q n Q C r 0 w 6 6 m c / x x
+Pass 3: -9 B J -9 N Q Q Q C n 0 r 6 6 m c / w x x
+Pass 4: -9 B -9 J N Q Q C Q 0 n 6 6 m c / r w x x
+Pass 5: -9 -9 B J N Q C Q 0 Q 6 6 m c / n r w x x
+Pass 6: -9 -9 B J N C Q 0 Q 6 6 Q c / m n r w x x
+Pass 7: -9 -9 B J C N 0 Q 6 6 Q Q / c m n r w x x
+Pass 8: -9 -9 B C J 0 N 6 6 Q Q / Q c m n r w x x
+Pass 9: -9 -9 B C 0 J 6 6 N Q / Q Q c m n r w x x
+Pass 10: -9 -9 B 0 C 6 6 J N / Q Q Q c m n r w x x
+Pass 11: -9 -9 0 B 6 6 C J / N Q Q Q c m n r w x x
+Pass 12: -9 -9 0 6 6 B C / J N Q Q Q c m n r w x x
+
+Pass 0: h m 7 y s K t 3 W R N d n 6 v -2 b w /
+Pass 1: h 7 m s K t 3 W R N d n 6 v -2 b w / y
+Pass 2: 7 h m K s 3 W R N d n 6 t -2 b v / w y
+Pass 3: 7 h K m 3 W R N d n 6 s -2 b t / v w y
+Pass 4: 7 K h 3 W R N d m 6 n -2 b s / t v w y
+Pass 5: 7 K 3 W R N d h 6 m -2 b n / s t v w y
+Pass 6: 7 3 K R N W d 6 h -2 b m / n s t v w y
+Pass 7: 3 7 K N R W 6 d -2 b h / m n s t v w y
+Pass 8: 3 7 K N R 6 W -2 b d / h m n s t v w y
+Pass 9: 3 7 K N 6 R -2 W b / d h m n s t v w y
+Pass 10: 3 7 K 6 N -2 R W / b d h m n s t v w y
+Pass 11: 3 7 6 K -2 N R / W b d h m n s t v w y
+Pass 12: 3 6 7 -2 K N / R W b d h m n s t v w y
+Pass 13: 3 6 -2 7 K / N R W b d h m n s t v w y
+Pass 14: 3 -2 6 7 / K N R W b d h m n s t v w y
+Pass 15: -2 3 6 / 7 K N R W b d h m n s t v w y
+
+Pass 0: f -7 H S z -3 6 6 Q i l V x v F F /
+Pass 1: -7 H S f -3 6 6 Q i l V x v F F / z
+Pass 2: -7 H S -3 6 6 Q f i V l v F F / x z
+Pass 3: -7 H -3 6 6 Q S f V i l F F / v x z
+Pass 4: -7 -3 6 6 H Q S V f i F F / l v x z
+Pass 5: -7 -3 6 6 H Q S V f F F / i l v x z
+Pass 6: -7 -3 6 6 H Q S V F F / f i l v x z
+Pass 7: -7 -3 6 6 H Q S F F / V f i l v x z
+Pass 8: -7 -3 6 6 H Q F F / S V f i l v x z
+Pass 9: -7 -3 6 6 H F F / Q S V f i l v x z
+Pass 10: -7 -3 6 6 F F / H Q S V f i l v x z
+
+Pass 0: -8 t L w k L l C I U I T G /
+Pass 1: -8 L t k L l C I U I T G / w
+Pass 2: -8 L k L l C I U I T G / t w
+Pass 3: -8 L L k C I U I T G / l t w
+Pass 4: -8 L L C I U I T G / k l t w
+Pass 5: -8 L C I L I T G / U k l t w
+Pass 6: -8 C I L I L G / T U k l t w
+Pass 7: -8 C I I L G / L T U k l t w
+Pass 8: -8 C I I G / L L T U k l t w
+Pass 9: -8 C I G / I L L T U k l t w
+Pass 10: -8 C G / I I L L T U k l t w
+
+Pass 0: m h v W s n V T -1 6 K /
+Pass 1: h m W s n V T -1 6 K / v
+Pass 2: h W m n V T -1 6 K / s v
+Pass 3: W h m V T -1 6 K / n s v
+Pass 4: W h V T -1 6 K / m n s v
+Pass 5: W V T -1 6 K / h m n s v
+Pass 6: V T -1 6 K / W h m n s v
+Pass 7: T -1 6 K / V W h m n s v
+Pass 8: -1 6 K / T V W h m n s v
+
+Pass 0: o R d U S -1 W u z g w g J 1 -4 9 u I /
+Pass 1: R d U S -1 W o u g w g J 1 -4 9 u I / z
+Pass 2: R U S -1 W d o g u g J 1 -4 9 u I / w z
+Pass 3: R S -1 U W d g o g J 1 -4 9 u I / u w z
+Pass 4: R -1 S U W d g g J 1 -4 9 o I / u u w z
+Pass 5: -1 R S U W d g J 1 -4 9 g I / o u u w z
+Pass 6: -1 R S U W d J 1 -4 9 g I / g o u u w z
+Pass 7: -1 R S U W J 1 -4 9 d I / g g o u u w z
+Pass 8: -1 R S U J 1 -4 9 W I / d g g o u u w z
+Pass 9: -1 R S J 1 -4 9 U I / W d g g o u u w z
+Pass 10: -1 R J 1 -4 9 S I / U W d g g o u u w z
+Pass 11: -1 J 1 -4 9 R I / S U W d g g o u u w z
+Pass 12: -1 1 -4 9 J I / R S U W d g g o u u w z
+Pass 13: -1 -4 1 9 I / J R S U W d g g o u u w z
+Pass 14: -4 -1 1 9 / I J R S U W d g g o u u w z
+
+Pass 0: 1 -6 I -2 S F M z -2 N /
+Pass 1: -6 1 -2 I F M S -2 N / z
+Pass 2: -6 -2 1 F I M -2 N / S z
+Pass 3: -6 -2 1 F I -2 M / N S z
+Pass 4: -6 -2 1 F -2 I / M N S z
+Pass 5: -6 -2 1 -2 F / I M N S z
+Pass 6: -6 -2 -2 1 / F I M N S z
+
+Pass 0: U 6 c J 2 M 8 z -4 -8 6 1 t /
+Pass 1: 6 U J 2 M 8 c -4 -8 6 1 t / z
+Pass 2: 6 J 2 M 8 U -4 -8 6 1 c / t z
+Pass 3: 6 2 J 8 M -4 -8 6 1 U / c t z
+Pass 4: 2 6 8 J -4 -8 6 1 M / U c t z
+Pass 5: 2 6 8 -4 -8 6 1 J / M U c t z
+Pass 6: 2 6 -4 -8 6 1 8 / J M U c t z
+Pass 7: 2 -4 -8 6 1 6 / 8 J M U c t z
+Pass 8: -4 -8 2 1 6 / 6 8 J M U c t z
+Pass 9: -8 -4 1 2 / 6 6 8 J M U c t z
+
+Pass 0: u E S -2 -6 G P e l f J /
+Pass 1: E S -2 -6 G P e l f J / u
+Pass 2: E -2 -6 G P S e f J / l u
+Pass 3: -2 -6 E G P S e J / f l u
+Pass 4: -6 -2 E G P S J / e f l u
+Pass 5: -6 -2 E G P J / S e f l u
+Pass 6: -6 -2 E G J / P S e f l u
+
+Pass 0: 5 -8 P P C R F b p 6 0 /
+Pass 1: -8 5 P C P F R b 6 0 / p
+Pass 2: -8 5 C P F P R 6 0 / b p
+Pass 3: -8 5 C F P P 6 0 / R b p
+Pass 4: -8 5 C F P 6 0 / P R b p
+Pass 5: -8 5 C F 6 0 / P P R b p
+Pass 6: -8 5 C 6 0 / F P P R b p
+Pass 7: -8 5 6 0 / C F P P R b p
+Pass 8: -8 5 0 / 6 C F P P R b p
+Pass 9: -8 0 / 5 6 C F P P R b p
+
+Pass 0: G U r I R V J -7 L W k G n v /
+Pass 1: G U I R V J -7 L W k G n r / v
+Pass 2: G I R U J -7 L V W G k n / r v
+Pass 3: G I R J -7 L U V G W k / n r v
+Pass 4: G I J -7 L R U G V W / k n r v
+Pass 5: G I -7 J L R G U V / W k n r v
+Pass 6: G -7 I J L G R U / V W k n r v
+Pass 7: -7 G I J G L R / U V W k n r v
+Pass 8: -7 G I G J L / R U V W k n r v
+Pass 9: -7 G G I J / L R U V W k n r v
+
+Pass 0: U e k B c x y M 7 -4 f 0 4 4 q 9 O h /
+Pass 1: U e B c k x M 7 -4 f 0 4 4 q 9 O h / y
+Pass 2: U B c e k M 7 -4 f 0 4 4 q 9 O h / x y
+Pass 3: B U c e M 7 -4 f 0 4 4 k 9 O h / q x y
+Pass 4: B U c M 7 -4 e 0 4 4 f 9 O h / k q x y
+Pass 5: B U M 7 -4 c 0 4 4 e 9 O f / h k q x y
+Pass 6: B M 7 -4 U 0 4 4 c 9 O e / f h k q x y
+Pass 7: B 7 -4 M 0 4 4 U 9 O c / e f h k q x y
+Pass 8: 7 -4 B 0 4 4 M 9 O U / c e f h k q x y
+Pass 9: -4 7 0 4 4 B 9 M O / U c e f h k q x y
+Pass 10: -4 0 4 4 7 9 B M / O U c e f h k q x y
+
+Pass 0: K 9 s 7 -6 a U O M -6 l 8 -5 G S 6 m V /
+Pass 1: 9 K 7 -6 a U O M -6 l 8 -5 G S 6 m V / s
+Pass 2: 9 7 -6 K U O M -6 a 8 -5 G S 6 l V / m s
+Pass 3: 7 -6 9 K O M -6 U 8 -5 G S 6 a V / l m s
+Pass 4: -6 7 9 K M -6 O 8 -5 G S 6 U V / a l m s
+Pass 5: -6 7 9 K -6 M 8 -5 G O 6 S U / V a l m s
+Pass 6: -6 7 9 -6 K 8 -5 G M 6 O S / U V a l m s
+Pass 7: -6 7 -6 9 8 -5 G K 6 M O / S U V a l m s
+Pass 8: -6 -6 7 8 -5 9 G 6 K M / O S U V a l m s
+Pass 9: -6 -6 7 -5 8 9 6 G K / M O S U V a l m s
+Pass 10: -6 -6 -5 7 8 6 9 G / K M O S U V a l m s
+Pass 11: -6 -6 -5 7 6 8 9 / G K M O S U V a l m s
+Pass 12: -6 -6 -5 6 7 8 / 9 G K M O S U V a l m s
+
+Pass 0: 5 -8 m -5 s z 5 4 D -6 H /
+Pass 1: -8 5 -5 m s 5 4 D -6 H / z
+Pass 2: -8 -5 5 m 5 4 D -6 H / s z
+Pass 3: -8 -5 5 5 4 D -6 H / m s z
+Pass 4: -8 -5 5 4 5 -6 D / H m s z
+Pass 5: -8 -5 4 5 -6 5 / D H m s z
+Pass 6: -8 -5 4 -6 5 / 5 D H m s z
+Pass 7: -8 -5 -6 4 / 5 5 D H m s z
+Pass 8: -8 -6 -5 / 4 5 5 D H m s z
+
+Pass 0: e H o N -2 h x K 2 v O 9 /
+Pass 1: H e N -2 h o K 2 v O 9 / x
+Pass 2: H N -2 e h K 2 o O 9 / v x
+Pass 3: H -2 N e K 2 h O 9 / o v x
+Pass 4: -2 H N K 2 e O 9 / h o v x
+Pass 5: -2 H K 2 N O 9 / e h o v x
+Pass 6: -2 H 2 K N 9 / O e h o v x
+Pass 7: -2 2 H K 9 / N O e h o v x
+Pass 8: -2 2 H 9 / K N O e h o v x
+Pass 9: -2 2 9 / H K N O e h o v x
+
+Pass 0: l N A V U -4 e v 1 D e h U K 1 /
+Pass 1: N A V U -4 e l 1 D e h U K 1 / v
+Pass 2: A N U -4 V e 1 D e h U K 1 / l v
+Pass 3: A N -4 U V 1 D e e U K 1 / h l v
+Pass 4: A -4 N U 1 D V e U K 1 / e h l v
+Pass 5: -4 A N 1 D U V U K 1 / e e h l v
+Pass 6: -4 A 1 D N U U K 1 / V e e h l v
+Pass 7: -4 1 A D N U K 1 / U V e e h l v
+Pass 8: -4 1 A D N K 1 / U U V e e h l v
+Pass 9: -4 1 A D K 1 / N U U V e e h l v
+Pass 10: -4 1 A D 1 / K N U U V e e h l v
+Pass 11: -4 1 A 1 / D K N U U V e e h l v
+Pass 12: -4 1 1 / A D K N U U V e e h l v
+
+Pass 0: v N L m 4 V u k i e -4 V /
+Pass 1: N L m 4 V u k i e -4 V / v
+Pass 2: L N 4 V m k i e -4 V / u v
+Pass 3: L 4 N V k i e -4 V / m u v
+Pass 4: 4 L N V i e -4 V / k m u v
+Pass 5: 4 L N V e -4 V / i k m u v
+Pass 6: 4 L N V -4 V / e i k m u v
+Pass 7: 4 L N -4 V / V e i k m u v
+Pass 8: 4 L -4 N / V V e i k m u v
+Pass 9: 4 -4 L / N V V e i k m u v
+Pass 10: -4 4 / L N V V e i k m u v
+
+Pass 0: J S g z -7 -8 N v k T /
+Pass 1: J S g -7 -8 N v k T / z
+Pass 2: J S -7 -8 N g k T / v z
+Pass 3: J -7 -8 N S g T / k v z
+Pass 4: -7 -8 J N S T / g k v z
+Pass 5: -8 -7 J N S / T g k v z
+
+Pass 0: 4 3 F 4 9 -6 s E D 4 t w /
+Pass 1: 3 4 4 9 -6 F E D 4 s t / w
+Pass 2: 3 4 4 -6 9 E D 4 F s / t w
+Pass 3: 3 4 -6 4 9 D 4 E F / s t w
+Pass 4: 3 -6 4 4 9 4 D E / F s t w
+Pass 5: -6 3 4 4 4 9 D / E F s t w
+
+Pass 0: -5 -2 c x G m -1 5 M 8 R N x f G /
+Pass 1: -5 -2 c G m -1 5 M 8 R N x f G / x
+Pass 2: -5 -2 G c -1 5 M 8 R N m f G / x x
+Pass 3: -5 -2 G -1 5 M 8 R N c f G / m x x
+Pass 4: -5 -2 -1 5 G 8 M N R c G / f m x x
+Pass 5: -5 -2 -1 5 8 G M N R G / c f m x x
+Pass 6: -5 -2 -1 5 8 G M N G / R c f m x x
+Pass 7: -5 -2 -1 5 8 G M G / N R c f m x x
+Pass 8: -5 -2 -1 5 8 G G / M N R c f m x x
+
+Pass 0: K E 1 M 9 w b E p A /
+Pass 1: E 1 K 9 M b E p A / w
+Pass 2: 1 E 9 K M E b A / p w
+Pass 3: 1 9 E K E M A / b p w
+Pass 4: 1 9 E E K A / M b p w
+Pass 5: 1 9 E E A / K M b p w
+Pass 6: 1 9 E A / E K M b p w
+Pass 7: 1 9 A / E E K M b p w
+
+Pass 0: 8 L e m V S u y e 9 c Q /
+Pass 1: 8 L e V S m u e 9 c Q / y
+Pass 2: 8 L V S e m e 9 c Q / u y
+Pass 3: 8 L S V e e 9 c Q / m u y
+Pass 4: 8 L S V e 9 c Q / e m u y
+Pass 5: 8 L S V 9 c Q / e e m u y
+Pass 6: 8 L S 9 V Q / c e e m u y
+Pass 7: 8 L 9 S Q / V c e e m u y
+Pass 8: 8 9 L Q / S V c e e m u y
+
+Pass 0: S Q P S p z s n 9 s -3 j i c /
+Pass 1: Q P S S p s n 9 s -3 j i c / z
+Pass 2: P Q S S p n 9 s -3 j i c / s z
+Pass 3: P Q S S n 9 p -3 j i c / s s z
+Pass 4: P Q S S 9 n -3 j i c / p s s z
+Pass 5: P Q S 9 S -3 j i c / n p s s z
+Pass 6: P Q 9 S -3 S i c / j n p s s z
+Pass 7: P 9 Q -3 S S c / i j n p s s z
+Pass 8: 9 P -3 Q S S / c i j n p s s z
+Pass 9: 9 -3 P Q S / S c i j n p s s z
+Pass 10: -3 9 P Q / S S c i j n p s s z
+
+Pass 0: -3 w p d w T -3 K N c 1 K A a P /
+Pass 1: -3 p d w T -3 K N c 1 K A a P / w
+Pass 2: -3 d p T -3 K N c 1 K A a P / w w
+Pass 3: -3 d T -3 K N c 1 K A a P / p w w
+Pass 4: -3 T -3 K N c 1 K A a P / d p w w
+Pass 5: -3 -3 K N T 1 K A a P / c d p w w
+Pass 6: -3 -3 K N 1 K A T P / a c d p w w
+Pass 7: -3 -3 K 1 K A N P / T a c d p w w
+Pass 8: -3 -3 1 K A K N / P T a c d p w w
+Pass 9: -3 -3 1 A K K / N P T a c d p w w
+
+Pass 0: f -4 l d b -6 -5 3 w K I /
+Pass 1: -4 f d b -6 -5 3 l K I / w
+Pass 2: -4 d b -6 -5 3 f K I / l w
+Pass 3: -4 b -6 -5 3 d K I / f l w
+Pass 4: -4 -6 -5 3 b K I / d f l w
+Pass 5: -6 -5 -4 3 K I / b d f l w
+Pass 6: -6 -5 -4 3 I / K b d f l w
+
+Pass 0: b W -4 J i L -8 G -4 M G r O C /
+Pass 1: W -4 J b L -8 G -4 M G i O C / r
+Pass 2: -4 J W L -8 G -4 M G b O C / i r
+Pass 3: -4 J L -8 G -4 M G W O C / b i r
+Pass 4: -4 J -8 G -4 L G M O C / W b i r
+Pass 5: -4 -8 G -4 J G L M C / O W b i r
+Pass 6: -8 -4 -4 G G J L C / M O W b i r
+Pass 7: -8 -4 -4 G G J C / L M O W b i r
+Pass 8: -8 -4 -4 G G C / J L M O W b i r
+Pass 9: -8 -4 -4 G C / G J L M O W b i r
+Pass 10: -8 -4 -4 C / G G J L M O W b i r
+
+Pass 0: A g e -6 f U 6 b L Q o U /
+Pass 1: A e -6 f U 6 b L Q g U / o
+Pass 2: A -6 e U 6 b L Q f U / g o
+Pass 3: -6 A U 6 b L Q e U / f g o
+Pass 4: -6 A 6 U L Q b U / e f g o
+Pass 5: -6 6 A L Q U U / b e f g o
+
+Pass 0: O p v L p A s 1 V R M H 0 J K c f v /
+Pass 1: O p L p A s 1 V R M H 0 J K c f v / v
+Pass 2: O L p A p 1 V R M H 0 J K c f s / v v
+Pass 3: L O A p 1 V R M H 0 J K c f p / s v v
+Pass 4: L A O 1 V R M H 0 J K c f p / p s v v
+Pass 5: A L 1 O R M H 0 J K V c f / p p s v v
+Pass 6: A 1 L O M H 0 J K R V c / f p p s v v
+Pass 7: 1 A L M H 0 J K O R V / c f p p s v v
+Pass 8: 1 A L H 0 J K M O R / V c f p p s v v
+Pass 9: 1 A H 0 J K L M O / R V c f p p s v v
+Pass 10: 1 A 0 H J K L M / O R V c f p p s v v
+Pass 11: 1 0 A H J K L / M O R V c f p p s v v
+Pass 12: 0 1 A H J K / L M O R V c f p p s v v
+
+Pass 0: I j M K u -8 D f p x 2 0 U /
+Pass 1: I M K j -8 D f p u 2 0 U / x
+Pass 2: I K M -8 D f j p 2 0 U / u x
+Pass 3: I K -8 D M f j 2 0 U / p u x
+Pass 4: I -8 D K M f 2 0 U / j p u x
+Pass 5: -8 D I K M 2 0 U / f j p u x
+Pass 6: -8 D I K 2 0 M / U f j p u x
+Pass 7: -8 D I 2 0 K / M U f j p u x
+Pass 8: -8 D 2 0 I / K M U f j p u x
+Pass 9: -8 2 0 D / I K M U f j p u x
+Pass 10: -8 0 2 / D I K M U f j p u x
+
+Pass 0: l -3 B J N E j c f B c b -2 E /
+Pass 1: -3 B J N E j c f B c b -2 E / l
+Pass 2: -3 B J E N c f B c b -2 E / j l
+Pass 3: -3 B E J N c B c b -2 E / f j l
+Pass 4: -3 B E J N B c b -2 E / c f j l
+Pass 5: -3 B E J B N b -2 E / c c f j l
+Pass 6: -3 B E B J N -2 E / b c c f j l
+Pass 7: -3 B B E J -2 E / N b c c f j l
+Pass 8: -3 B B E -2 E / J N b c c f j l
+Pass 9: -3 B B -2 E / E J N b c c f j l
+Pass 10: -3 B -2 B / E E J N b c c f j l
+Pass 11: -3 -2 B / B E E J N b c c f j l
+
+Pass 0: x N N b -2 t B f a v r -1 N d G m N T /
+Pass 1: N N b -2 t B f a v r -1 N d G m N T / x
+Pass 2: N N -2 b B f a t r -1 N d G m N T / v x
+Pass 3: N -2 N B b a f r -1 N d G m N T / t v x
+Pass 4: -2 N B N a b f -1 N d G m N T / r t v x
+Pass 5: -2 B N N a b -1 N d G f N T / m r t v x
+Pass 6: -2 B N N a -1 N b G d N T / f m r t v x
+Pass 7: -2 B N N -1 N a G b N T / d f m r t v x
+Pass 8: -2 B N -1 N N G a N T / b d f m r t v x
+Pass 9: -2 B -1 N N G N N T / a b d f m r t v x
+Pass 10: -2 -1 B N G N N N / T a b d f m r t v x
+Pass 11: -2 -1 B G N N N / N T a b d f m r t v x
+
+Pass 0: t 7 k -7 x l -8 D -3 H 4 E j w -4 5 D /
+Pass 1: 7 k -7 t l -8 D -3 H 4 E j w -4 5 D / x
+Pass 2: 7 -7 k l -8 D -3 H 4 E j t -4 5 D / w x
+Pass 3: -7 7 k -8 D -3 H 4 E j l -4 5 D / t w x
+Pass 4: -7 7 -8 D -3 H 4 E j k -4 5 D / l t w x
+Pass 5: -7 -8 7 -3 D 4 E H j -4 5 D / k l t w x
+Pass 6: -8 -7 -3 7 4 D E H -4 5 D / j k l t w x
+Pass 7: -8 -7 -3 4 7 D E -4 5 D / H j k l t w x
+Pass 8: -8 -7 -3 4 7 D -4 5 D / E H j k l t w x
+Pass 9: -8 -7 -3 4 7 -4 5 D / D E H j k l t w x
+Pass 10: -8 -7 -3 4 -4 5 7 / D D E H j k l t w x
+Pass 11: -8 -7 -3 -4 4 5 / 7 D D E H j k l t w x
+Pass 12: -8 -7 -4 -3 4 / 5 7 D D E H j k l t w x
+
+Pass 0: 1 -3 L Q -9 O N m A -2 q 9 6 z A /
+Pass 1: -3 1 L -9 O N Q A -2 m 9 6 q A / z
+Pass 2: -3 1 -9 L N O A -2 Q 9 6 m A / q z
+Pass 3: -3 -9 1 L N A -2 O 9 6 Q A / m q z
+Pass 4: -9 -3 1 L A -2 N 9 6 O A / Q m q z
+Pass 5: -9 -3 1 A -2 L 9 6 N A / O Q m q z
+Pass 6: -9 -3 1 -2 A 9 6 L A / N O Q m q z
+Pass 7: -9 -3 -2 1 9 6 A A / L N O Q m q z
+Pass 8: -9 -3 -2 1 6 9 A / A L N O Q m q z
+
+Pass 0: K O W t x 3 W G v -6 E -4 /
+Pass 1: K O W t 3 W G v -6 E -4 / x
+Pass 2: K O W 3 W G t -6 E -4 / v x
+Pass 3: K O 3 W G W -6 E -4 / t v x
+Pass 4: K 3 O G W -6 E -4 / W t v x
+Pass 5: 3 K G O -6 E -4 / W W t v x
+Pass 6: 3 G K -6 E -4 / O W W t v x
+Pass 7: 3 G -6 E -4 / K O W W t v x
+Pass 8: 3 -6 E -4 / G K O W W t v x
+Pass 9: -6 3 -4 / E G K O W W t v x
+Pass 10: -6 -4 / 3 E G K O W W t v x
+
+Pass 0: -4 d 4 7 m D c v t r 2 k 1 y y v L 8 /
+Pass 1: -4 4 7 d D c m t r 2 k 1 v y v L 8 / y
+Pass 2: -4 4 7 D c d m r 2 k 1 t v v L 8 / y y
+Pass 3: -4 4 7 D c d m 2 k 1 r t v L 8 / v y y
+Pass 4: -4 4 7 D c d 2 k 1 m r t L 8 / v v y y
+Pass 5: -4 4 7 D c 2 d 1 k m r L 8 / t v v y y
+Pass 6: -4 4 7 D 2 c 1 d k m L 8 / r t v v y y
+Pass 7: -4 4 7 2 D 1 c d k L 8 / m r t v v y y
+Pass 8: -4 4 2 7 1 D c d L 8 / k m r t v v y y
+Pass 9: -4 2 4 1 7 D c L 8 / d k m r t v v y y
+Pass 10: -4 2 1 4 7 D L 8 / c d k m r t v v y y
+Pass 11: -4 1 2 4 7 D 8 / L c d k m r t v v y y
+Pass 12: -4 1 2 4 7 8 / D L c d k m r t v v y y
+
+Pass 0: W c u 3 -6 -8 r R K f 6 J I 7 G F M C 9 /
+Pass 1: W c 3 -6 -8 r R K f 6 J I 7 G F M C 9 / u
+Pass 2: W 3 -6 -8 c R K f 6 J I 7 G F M C 9 / r u
+Pass 3: 3 -6 -8 W R K c 6 J I 7 G F M C 9 / f r u
+Pass 4: -6 -8 3 R K W 6 J I 7 G F M C 9 / c f r u
+Pass 5: -8 -6 3 K R 6 J I 7 G F M C 9 / W c f r u
+Pass 6: -8 -6 3 K 6 J I 7 G F M C 9 / R W c f r u
+Pass 7: -8 -6 3 6 J I 7 G F K C 9 / M R W c f r u
+Pass 8: -8 -6 3 6 I 7 G F J C 9 / K M R W c f r u
+Pass 9: -8 -6 3 6 7 G F I C 9 / J K M R W c f r u
+Pass 10: -8 -6 3 6 7 F G C 9 / I J K M R W c f r u
+Pass 11: -8 -6 3 6 7 F C 9 / G I J K M R W c f r u
+Pass 12: -8 -6 3 6 7 C 9 / F G I J K M R W c f r u
+Pass 13: -8 -6 3 6 7 9 / C F G I J K M R W c f r u
+
+Pass 0: m a F i d u 4 4 p -6 /
+Pass 1: a F i d m 4 4 p -6 / u
+Pass 2: F a d i 4 4 m -6 / p u
+Pass 3: F a d 4 4 i -6 / m p u
+Pass 4: F a 4 4 d -6 / i m p u
+Pass 5: F 4 4 a -6 / d i m p u
+Pass 6: 4 4 F -6 / a d i m p u
+Pass 7: 4 4 -6 / F a d i m p u
+Pass 8: 4 -6 / 4 F a d i m p u
+Pass 9: -6 / 4 4 F a d i m p u
+
+Pass 0: z N q R d -2 -9 0 c i q d W -4 x k /
+Pass 1: N q R d -2 -9 0 c i q d W -4 x k / z
+Pass 2: N R d -2 -9 0 c i q d W -4 q k / x z
+Pass 3: N R -2 -9 0 c d i d W -4 q k / q x z
+Pass 4: N -2 -9 0 R c d d W -4 i k / q q x z
+Pass 5: -2 -9 0 N R c d W -4 d i / k q q x z
+Pass 6: -9 -2 0 N R c W -4 d d / i k q q x z
+Pass 7: -9 -2 0 N R W -4 c d / d i k q q x z
+Pass 8: -9 -2 0 N R -4 W c / d d i k q q x z
+Pass 9: -9 -2 0 N -4 R W / c d d i k q q x z
+Pass 10: -9 -2 0 -4 N R / W c d d i k q q x z
+Pass 11: -9 -2 -4 0 N / R W c d d i k q q x z
+Pass 12: -9 -4 -2 0 / N R W c d d i k q q x z
+
+Pass 0: D P b h -7 -8 7 O S -3 G -5 9 t -9 /
+Pass 1: D P b -7 -8 7 O S -3 G -5 9 h -9 / t
+Pass 2: D P -7 -8 7 O S -3 G -5 9 b -9 / h t
+Pass 3: D -7 -8 7 O P -3 G -5 9 S -9 / b h t
+Pass 4: -7 -8 7 D O -3 G -5 9 P -9 / S b h t
+Pass 5: -8 -7 7 D -3 G -5 9 O -9 / P S b h t
+Pass 6: -8 -7 7 -3 D -5 9 G -9 / O P S b h t
+Pass 7: -8 -7 -3 7 -5 9 D -9 / G O P S b h t
+Pass 8: -8 -7 -3 -5 7 9 -9 / D G O P S b h t
+Pass 9: -8 -7 -5 -3 7 -9 / 9 D G O P S b h t
+Pass 10: -8 -7 -5 -3 -9 / 7 9 D G O P S b h t
+Pass 11: -8 -7 -5 -9 / -3 7 9 D G O P S b h t
+Pass 12: -8 -7 -9 / -5 -3 7 9 D G O P S b h t
+Pass 13: -8 -9 / -7 -5 -3 7 9 D G O P S b h t
+Pass 14: -9 / -8 -7 -5 -3 7 9 D G O P S b h t
+
+Pass 0: -6 4 -1 V J u i 3 -2 M -7 8 O /
+Pass 1: -6 -1 4 J V i 3 -2 M -7 8 O / u
+Pass 2: -6 -1 4 J V 3 -2 M -7 8 O / i u
+Pass 3: -6 -1 4 J 3 -2 M -7 8 O / V i u
+Pass 4: -6 -1 4 3 -2 J -7 8 M / O V i u
+Pass 5: -6 -1 3 -2 4 -7 8 J / M O V i u
+Pass 6: -6 -1 -2 3 -7 4 8 / J M O V i u
+Pass 7: -6 -2 -1 -7 3 4 / 8 J M O V i u
+Pass 8: -6 -2 -7 -1 3 / 4 8 J M O V i u
+Pass 9: -6 -7 -2 -1 / 3 4 8 J M O V i u
+Pass 10: -7 -6 -2 / -1 3 4 8 J M O V i u
+
+Pass 0: 9 p E x 7 i -9 L B l -4 T y 3 v b /
+Pass 1: 9 E p 7 i -9 L B l -4 T x 3 v b / y
+Pass 2: 9 E 7 i -9 L B l -4 T p 3 v b / x y
+Pass 3: 9 7 E -9 L B i -4 T l 3 p b / v x y
+Pass 4: 7 9 -9 E B L -4 T i 3 l b / p v x y
+Pass 5: 7 -9 9 B E -4 L T 3 i b / l p v x y
+Pass 6: -9 7 9 B -4 E L 3 T b / i l p v x y
+Pass 7: -9 7 9 -4 B E 3 L T / b i l p v x y
+Pass 8: -9 7 -4 9 B 3 E L / T b i l p v x y
+Pass 9: -9 -4 7 9 3 B E / L T b i l p v x y
+Pass 10: -9 -4 7 3 9 B / E L T b i l p v x y
+Pass 11: -9 -4 3 7 9 / B E L T b i l p v x y
+
+Pass 0: z K S Q E c k z 1 D E /
+Pass 1: K S Q E c k z 1 D E / z
+Pass 2: K Q E S c k 1 D E / z z
+Pass 3: K E Q S c 1 D E / k z z
+Pass 4: E K Q S 1 D E / c k z z
+Pass 5: E K Q 1 D E / S c k z z
+Pass 6: E K 1 D E / Q S c k z z
+Pass 7: E 1 D E / K Q S c k z z
+Pass 8: 1 D E / E K Q S c k z z
+
+Pass 0: b h b z I -7 e -5 R R o 0 d /
+Pass 1: b b h I -7 e -5 R R o 0 d / z
+Pass 2: b b I -7 e -5 R R h 0 d / o z
+Pass 3: b I -7 b -5 R R e 0 d / h o z
+Pass 4: I -7 b -5 R R b 0 d / e h o z
+Pass 5: -7 I -5 R R b 0 b / d e h o z
+Pass 6: -7 -5 I R R 0 b / b d e h o z
+Pass 7: -7 -5 I R 0 R / b b d e h o z
+Pass 8: -7 -5 I 0 R / R b b d e h o z
+Pass 9: -7 -5 0 I / R R b b d e h o z
+
+Pass 0: v C f O -8 O A R -3 k a /
+Pass 1: C f O -8 O A R -3 k a / v
+Pass 2: C O -8 O A R -3 f a / k v
+Pass 3: C -8 O A O -3 R a / f k v
+Pass 4: -8 C A O -3 O R / a f k v
+Pass 5: -8 A C -3 O O / R a f k v
+Pass 6: -8 A -3 C O / O R a f k v
+Pass 7: -8 -3 A C / O O R a f k v
+
+Pass 0: q A -4 N m 4 b u f s /
+Pass 1: A -4 N m 4 b q f s / u
+Pass 2: -4 A N 4 b m f q / s u
+Pass 3: -4 A 4 N b f m / q s u
+Pass 4: -4 4 A N b f / m q s u
+
+Pass 0: o k 2 E 7 C -6 4 B R c I S 5 l 6 C 0 o /
+Pass 1: k 2 E 7 C -6 4 B R c I S 5 l 6 C 0 o / o
+Pass 2: 2 E 7 C -6 4 B R c I S 5 k 6 C 0 l / o o
+Pass 3: 2 7 C -6 4 B E R I S 5 c 6 C 0 k / l o o
+Pass 4: 2 7 -6 4 B C E I R 5 S 6 C 0 c / k l o o
+Pass 5: 2 -6 4 7 B C E I 5 R 6 C 0 S / c k l o o
+Pass 6: -6 2 4 7 B C E 5 I 6 C 0 R / S c k l o o
+Pass 7: -6 2 4 7 B C 5 E 6 C 0 I / R S c k l o o
+Pass 8: -6 2 4 7 B 5 C 6 C 0 E / I R S c k l o o
+Pass 9: -6 2 4 7 5 B 6 C 0 C / E I R S c k l o o
+Pass 10: -6 2 4 5 7 6 B 0 C / C E I R S c k l o o
+Pass 11: -6 2 4 5 6 7 0 B / C C E I R S c k l o o
+Pass 12: -6 2 4 5 6 0 7 / B C C E I R S c k l o o
+Pass 13: -6 2 4 5 0 6 / 7 B C C E I R S c k l o o
+Pass 14: -6 2 4 0 5 / 6 7 B C C E I R S c k l o o
+Pass 15: -6 2 0 4 / 5 6 7 B C C E I R S c k l o o
+Pass 16: -6 0 2 / 4 5 6 7 B C C E I R S c k l o o
+
+Pass 0: F S -2 -6 r y 8 A I m z j d -2 /
+Pass 1: F -2 -6 S r 8 A I m y j d -2 / z
+Pass 2: -2 -6 F S 8 A I m r j d -2 / y z
+Pass 3: -6 -2 F 8 A I S m j d -2 / r y z
+Pass 4: -6 -2 8 A F I S j d -2 / m r y z
+Pass 5: -6 -2 8 A F I S d -2 / j m r y z
+Pass 6: -6 -2 8 A F I S -2 / d j m r y z
+Pass 7: -6 -2 8 A F I -2 / S d j m r y z
+Pass 8: -6 -2 8 A F -2 / I S d j m r y z
+Pass 9: -6 -2 8 A -2 / F I S d j m r y z
+Pass 10: -6 -2 8 -2 / A F I S d j m r y z
+Pass 11: -6 -2 -2 / 8 A F I S d j m r y z
+
+Pass 0: 9 E F R D -8 C j f d /
+Pass 1: 9 E F D -8 C R f d / j
+Pass 2: 9 E D -8 C F R d / f j
+Pass 3: 9 D -8 C E F R / d f j
+Pass 4: 9 -8 C D E F / R d f j
+Pass 5: -8 9 C D E / F R d f j
+
+Pass 0: O q 2 M q O -5 z z M p d A -7 U l T D /
+Pass 1: O 2 M q O -5 q z M p d A -7 U l T D / z
+Pass 2: 2 M O O -5 q q M p d A -7 U l T D / z z
+Pass 3: 2 M O -5 O q M p d A -7 U l T D / q z z
+Pass 4: 2 M -5 O O M p d A -7 U l T D / q q z z
+Pass 5: 2 -5 M O M O d A -7 U l T D / p q q z z
+Pass 6: -5 2 M M O O A -7 U d T D / l p q q z z
+Pass 7: -5 2 M M O A -7 O U T D / d l p q q z z
+Pass 8: -5 2 M M A -7 O O T D / U d l p q q z z
+Pass 9: -5 2 M A -7 M O O D / T U d l p q q z z
+Pass 10: -5 2 A -7 M M O D / O T U d l p q q z z
+Pass 11: -5 2 -7 A M M D / O O T U d l p q q z z
+Pass 12: -5 -7 2 A M D / M O O T U d l p q q z z
+Pass 13: -7 -5 2 A D / M M O O T U d l p q q z z
+
+Pass 0: 9 8 1 4 W f a -4 A z B U k h /
+Pass 1: 8 1 4 9 W a -4 A f B U k h / z
+Pass 2: 1 4 8 9 W -4 A a B U f h / k z
+Pass 3: 1 4 8 9 -4 A W B U a f / h k z
+Pass 4: 1 4 8 -4 9 A B U W a / f h k z
+Pass 5: 1 4 -4 8 9 A B U W / a f h k z
+Pass 6: 1 -4 4 8 9 A B U / W a f h k z
+Pass 7: -4 1 4 8 9 A B / U W a f h k z
+
+Pass 0: k 3 n -3 R -7 1 2 Q W 1 I C T 6 N -8 A 0 /
+Pass 1: 3 k -3 R -7 1 2 Q W 1 I C T 6 N -8 A 0 / n
+Pass 2: 3 -3 R -7 1 2 Q W 1 I C T 6 N -8 A 0 / k n
+Pass 3: -3 3 -7 1 2 Q R 1 I C T 6 N -8 A 0 / W k n
+Pass 4: -3 -7 1 2 3 Q 1 I C R 6 N -8 A 0 / T W k n
+Pass 5: -7 -3 1 2 3 1 I C Q 6 N -8 A 0 / R T W k n
+Pass 6: -7 -3 1 2 1 3 C I 6 N -8 A 0 / Q R T W k n
+Pass 7: -7 -3 1 1 2 3 C 6 I -8 A 0 / N Q R T W k n
+Pass 8: -7 -3 1 1 2 3 6 C -8 A 0 / I N Q R T W k n
+Pass 9: -7 -3 1 1 2 3 6 -8 A 0 / C I N Q R T W k n
+Pass 10: -7 -3 1 1 2 3 -8 6 0 / A C I N Q R T W k n
+Pass 11: -7 -3 1 1 2 -8 3 0 / 6 A C I N Q R T W k n
+Pass 12: -7 -3 1 1 -8 2 0 / 3 6 A C I N Q R T W k n
+Pass 13: -7 -3 1 -8 1 0 / 2 3 6 A C I N Q R T W k n
+Pass 14: -7 -3 -8 1 0 / 1 2 3 6 A C I N Q R T W k n
+Pass 15: -7 -8 -3 0 / 1 1 2 3 6 A C I N Q R T W k n
+Pass 16: -8 -7 -3 / 0 1 1 2 3 6 A C I N Q R T W k n
+
+Pass 0: d g C 9 0 i -8 1 q H 1 8 -3 T A m y /
+Pass 1: d C 9 0 g -8 1 i H 1 8 -3 T A m q / y
+Pass 2: C 9 0 d -8 1 g H 1 8 -3 T A i m / q y
+Pass 3: 9 0 C -8 1 d H 1 8 -3 T A g i / m q y
+Pass 4: 0 9 -8 1 C H 1 8 -3 T A d g / i m q y
+Pass 5: 0 -8 1 9 C 1 8 -3 H A T d / g i m q y
+Pass 6: -8 0 1 9 1 8 -3 C A H T / d g i m q y
+Pass 7: -8 0 1 1 8 -3 9 A C H / T d g i m q y
+Pass 8: -8 0 1 1 -3 8 9 A C / H T d g i m q y
+Pass 9: -8 0 1 -3 1 8 9 A / C H T d g i m q y
+Pass 10: -8 0 -3 1 1 8 9 / A C H T d g i m q y
+Pass 11: -8 -3 0 1 1 8 / 9 A C H T d g i m q y
+
+Pass 0: n -1 w N -8 -9 9 c H k d L -5 d 0 -9 M /
+Pass 1: -1 n N -8 -9 9 c H k d L -5 d 0 -9 M / w
+Pass 2: -1 N -8 -9 9 c H k d L -5 d 0 -9 M / n w
+Pass 3: -1 -8 -9 9 N H c d L -5 d 0 -9 M / k n w
+Pass 4: -8 -9 -1 9 H N c L -5 d 0 -9 M / d k n w
+Pass 5: -9 -8 -1 9 H N L -5 c 0 -9 M / d d k n w
+Pass 6: -9 -8 -1 9 H L -5 N 0 -9 M / c d d k n w
+Pass 7: -9 -8 -1 9 H -5 L 0 -9 M / N c d d k n w
+Pass 8: -9 -8 -1 9 -5 H 0 -9 L / M N c d d k n w
+Pass 9: -9 -8 -1 -5 9 0 -9 H / L M N c d d k n w
+Pass 10: -9 -8 -5 -1 0 -9 9 / H L M N c d d k n w
+Pass 11: -9 -8 -5 -1 -9 0 / 9 H L M N c d d k n w
+Pass 12: -9 -8 -5 -9 -1 / 0 9 H L M N c d d k n w
+Pass 13: -9 -8 -9 -5 / -1 0 9 H L M N c d d k n w
+Pass 14: -9 -9 -8 / -5 -1 0 9 H L M N c d d k n w
+
+Pass 0: -7 -7 6 6 -7 -8 g -2 0 k 3 e /
+Pass 1: -7 -7 6 -7 -8 6 -2 0 g 3 e / k
+Pass 2: -7 -7 -7 -8 6 -2 0 6 3 e / g k
+Pass 3: -7 -7 -8 -7 -2 0 6 3 6 / e g k
+Pass 4: -7 -8 -7 -7 -2 0 3 6 / 6 e g k
+Pass 5: -8 -7 -7 -7 -2 0 3 / 6 6 e g k
+
+Pass 0: 5 o 9 M j -1 r -6 V a u 4 b h m /
+Pass 1: 5 9 M j -1 o -6 V a r 4 b h m / u
+Pass 2: 5 9 M -1 j -6 V a o 4 b h m / r u
+Pass 3: 5 9 -1 M -6 V a j 4 b h m / o r u
+Pass 4: 5 -1 9 -6 M V a 4 b h j / m o r u
+Pass 5: -1 5 -6 9 M V 4 a b h / j m o r u
+Pass 6: -1 -6 5 9 M 4 V a b / h j m o r u
+Pass 7: -6 -1 5 9 4 M V a / b h j m o r u
+Pass 8: -6 -1 5 4 9 M V / a b h j m o r u
+Pass 9: -6 -1 4 5 9 M / V a b h j m o r u
+
+Pass 0: 8 j 1 -5 z l L h K x G 2 -8 G t -6 4 /
+Pass 1: 8 1 -5 j l L h K x G 2 -8 G t -6 4 / z
+Pass 2: 1 -5 8 j L h K l G 2 -8 G t -6 4 / x z
+Pass 3: -5 1 8 L h K j G 2 -8 G l -6 4 / t x z
+Pass 4: -5 1 8 L K h G 2 -8 G j -6 4 / l t x z
+Pass 5: -5 1 8 K L G 2 -8 G h -6 4 / j l t x z
+Pass 6: -5 1 8 K G 2 -8 G L -6 4 / h j l t x z
+Pass 7: -5 1 8 G 2 -8 G K -6 4 / L h j l t x z
+Pass 8: -5 1 8 2 -8 G G -6 4 / K L h j l t x z
+Pass 9: -5 1 2 -8 8 G -6 4 / G K L h j l t x z
+Pass 10: -5 1 -8 2 8 -6 4 / G G K L h j l t x z
+Pass 11: -5 -8 1 2 -6 4 / 8 G G K L h j l t x z
+Pass 12: -8 -5 1 -6 2 / 4 8 G G K L h j l t x z
+Pass 13: -8 -5 -6 1 / 2 4 8 G G K L h j l t x z
+Pass 14: -8 -6 -5 / 1 2 4 8 G G K L h j l t x z
+
+Pass 0: i N b 4 k s A -1 u P 6 /
+Pass 1: N b 4 i k A -1 s P 6 / u
+Pass 2: N 4 b i A -1 k P 6 / s u
+Pass 3: 4 N b A -1 i P 6 / k s u
+Pass 4: 4 N A -1 b P 6 / i k s u
+Pass 5: 4 A -1 N P 6 / b i k s u
+Pass 6: 4 -1 A N 6 / P b i k s u
+Pass 7: -1 4 A 6 / N P b i k s u
+Pass 8: -1 4 6 / A N P b i k s u
+
+Pass 0: d v O 2 v h b l -7 r y /
+Pass 1: d O 2 v h b l -7 r v / y
+Pass 2: O 2 d h b l -7 r v / v y
+Pass 3: 2 O d b h -7 l r / v v y
+Pass 4: 2 O b d -7 h l / r v v y
+Pass 5: 2 O b -7 d h / l r v v y
+Pass 6: 2 O -7 b d / h l r v v y
+Pass 7: 2 -7 O b / d h l r v v y
+Pass 8: -7 2 O / b d h l r v v y
+
+Pass 0: 3 z J j S G H I r z x 1 F g o /
+Pass 1: 3 J j S G H I r z x 1 F g o / z
+Pass 2: 3 J S G H I j r x 1 F g o / z z
+Pass 3: 3 J G H I S j r 1 F g o / x z z
+Pass 4: 3 G H I J S j 1 F g o / r x z z
+Pass 5: 3 G H I J S 1 F g j / o r x z z
+Pass 6: 3 G H I J 1 F S g / j o r x z z
+Pass 7: 3 G H I 1 F J S / g j o r x z z
+Pass 8: 3 G H 1 F I J / S g j o r x z z
+Pass 9: 3 G 1 F H I / J S g j o r x z z
+Pass 10: 3 1 F G H / I J S g j o r x z z
+Pass 11: 1 3 F G / H I J S g j o r x z z
+
+Pass 0: -1 -5 m -2 T 1 V N x 4 u u o D y l K -6 D /
+Pass 1: -5 -1 -2 T 1 V N m 4 u u o D x l K -6 D / y
+Pass 2: -5 -2 -1 1 T N V 4 m u o D u l K -6 D / x y
+Pass 3: -5 -2 -1 1 N T 4 V m o D u l K -6 D / u x y
+Pass 4: -5 -2 -1 1 N 4 T V m D o l K -6 D / u u x y
+Pass 5: -5 -2 -1 1 4 N T V D m l K -6 D / o u u x y
+Pass 6: -5 -2 -1 1 4 N T D V l K -6 D / m o u u x y
+Pass 7: -5 -2 -1 1 4 N D T V K -6 D / l m o u u x y
+Pass 8: -5 -2 -1 1 4 D N T K -6 D / V l m o u u x y
+Pass 9: -5 -2 -1 1 4 D N K -6 D / T V l m o u u x y
+Pass 10: -5 -2 -1 1 4 D K -6 D / N T V l m o u u x y
+Pass 11: -5 -2 -1 1 4 D -6 D / K N T V l m o u u x y
+Pass 12: -5 -2 -1 1 4 -6 D / D K N T V l m o u u x y
+Pass 13: -5 -2 -1 1 -6 4 / D D K N T V l m o u u x y
+Pass 14: -5 -2 -1 -6 1 / 4 D D K N T V l m o u u x y
+Pass 15: -5 -2 -6 -1 / 1 4 D D K N T V l m o u u x y
+Pass 16: -5 -6 -2 / -1 1 4 D D K N T V l m o u u x y
+Pass 17: -6 -5 / -2 -1 1 4 D D K N T V l m o u u x y
+
+Pass 0: -9 d A e -4 J S s g -7 S r e 7 -5 S -8 r G /
+Pass 1: -9 A d -4 J S e g -7 S r e 7 -5 S -8 r G / s
+Pass 2: -9 A -4 J S d e -7 S g e 7 -5 S -8 r G / r s
+Pass 3: -9 -4 A J S d -7 S e e 7 -5 S -8 g G / r r s
+Pass 4: -9 -4 A J S -7 S d e 7 -5 S -8 e G / g r r s
+Pass 5: -9 -4 A J -7 S S d 7 -5 S -8 e G / e g r r s
+Pass 6: -9 -4 A -7 J S S 7 -5 S -8 d G / e e g r r s
+Pass 7: -9 -4 -7 A J S 7 -5 S -8 S G / d e e g r r s
+Pass 8: -9 -7 -4 A J 7 -5 S -8 S G / S d e e g r r s
+Pass 9: -9 -7 -4 A 7 -5 J -8 S G / S S d e e g r r s
+Pass 10: -9 -7 -4 7 -5 A -8 J G / S S S d e e g r r s
+Pass 11: -9 -7 -4 -5 7 -8 A G / J S S S d e e g r r s
+Pass 12: -9 -7 -5 -4 -8 7 A / G J S S S d e e g r r s
+Pass 13: -9 -7 -5 -8 -4 7 / A G J S S S d e e g r r s
+Pass 14: -9 -7 -8 -5 -4 / 7 A G J S S S d e e g r r s
+Pass 15: -9 -8 -7 -5 / -4 7 A G J S S S d e e g r r s
+
+Pass 0: b P -6 I E M -3 V -1 L k M -6 k a M E /
+Pass 1: P -6 I E M -3 V -1 L b M -6 k a M E / k
+Pass 2: -6 I E M -3 P -1 L V M -6 b a M E / k k
+Pass 3: -6 E I -3 M -1 L P M -6 V a M E / b k k
+Pass 4: -6 E -3 I -1 L M M -6 P V M E / a b k k
+Pass 5: -6 -3 E -1 I L M -6 M P M E / V a b k k
+Pass 6: -6 -3 -1 E I L -6 M M M E / P V a b k k
+Pass 7: -6 -3 -1 E I -6 L M M E / M P V a b k k
+Pass 8: -6 -3 -1 E -6 I L M E / M M P V a b k k
+Pass 9: -6 -3 -1 -6 E I L E / M M M P V a b k k
+Pass 10: -6 -3 -6 -1 E I E / L M M M P V a b k k
+Pass 11: -6 -6 -3 -1 E E / I L M M M P V a b k k
+
+Pass 0: p E 3 8 w v b N w 4 -1 M 3 -5 /
+Pass 1: E 3 8 p v b N w 4 -1 M 3 -5 / w
+Pass 2: 3 8 E p b N v 4 -1 M 3 -5 / w w
+Pass 3: 3 8 E b N p 4 -1 M 3 -5 / v w w
+Pass 4: 3 8 E N b 4 -1 M 3 -5 / p v w w
+Pass 5: 3 8 E N 4 -1 M 3 -5 / b p v w w
+Pass 6: 3 8 E 4 -1 M 3 -5 / N b p v w w
+Pass 7: 3 8 4 -1 E 3 -5 / M N b p v w w
+Pass 8: 3 4 -1 8 3 -5 / E M N b p v w w
+Pass 9: 3 -1 4 3 -5 / 8 E M N b p v w w
+Pass 10: -1 3 3 -5 / 4 8 E M N b p v w w
+Pass 11: -1 3 -5 / 3 4 8 E M N b p v w w
+Pass 12: -1 -5 / 3 3 4 8 E M N b p v w w
+Pass 13: -5 / -1 3 3 4 8 E M N b p v w w
+
+Pass 0: P -3 o V i z q 6 U C /
+Pass 1: -3 P V i o q 6 U C / z
+Pass 2: -3 P V i o 6 U C / q z
+Pass 3: -3 P V i 6 U C / o q z
+Pass 4: -3 P V 6 U C / i o q z
+Pass 5: -3 P 6 U C / V i o q z
+Pass 6: -3 6 P C / U V i o q z
+Pass 7: -3 6 C / P U V i o q z
+
+Pass 0: 4 G W K x O O h j A J 8 B N l N e i /
+Pass 1: 4 G K W O O h j A J 8 B N l N e i / x
+Pass 2: 4 G K O O W h A J 8 B N j N e i / l x
+Pass 3: 4 G K O O W A J 8 B N h N e i / j l x
+Pass 4: 4 G K O O A J 8 B N W N e h / i j l x
+Pass 5: 4 G K O A J 8 B N O N W e / h i j l x
+Pass 6: 4 G K A J 8 B N O N O W / e h i j l x
+Pass 7: 4 G A J 8 B K N N O O / W e h i j l x
+Pass 8: 4 A G 8 B J K N N O / O W e h i j l x
+Pass 9: 4 A 8 B G J K N N / O O W e h i j l x
+Pass 10: 4 8 A B G J K N / N O O W e h i j l x
+
+Pass 0: q 2 n L I u n 1 B i O w R B U -5 4 -7 /
+Pass 1: 2 n L I q n 1 B i O u R B U -5 4 -7 / w
+Pass 2: 2 L I n n 1 B i O q R B U -5 4 -7 / u w
+Pass 3: 2 I L n 1 B i O n R B U -5 4 -7 / q u w
+Pass 4: 2 I L 1 B i O n R B U -5 4 -7 / n q u w
+Pass 5: 2 I 1 B L O i R B U -5 4 -7 / n n q u w
+Pass 6: 2 1 B I L O R B U -5 4 -7 / i n n q u w
+Pass 7: 1 2 B I L O B R -5 4 -7 / U i n n q u w
+Pass 8: 1 2 B I L B O -5 4 -7 / R U i n n q u w
+Pass 9: 1 2 B I B L -5 4 -7 / O R U i n n q u w
+Pass 10: 1 2 B B I -5 4 -7 / L O R U i n n q u w
+Pass 11: 1 2 B B -5 4 -7 / I L O R U i n n q u w
+Pass 12: 1 2 B -5 4 -7 / B I L O R U i n n q u w
+Pass 13: 1 2 -5 4 -7 / B B I L O R U i n n q u w
+Pass 14: 1 -5 2 -7 / 4 B B I L O R U i n n q u w
+Pass 15: -5 1 -7 / 2 4 B B I L O R U i n n q u w
+Pass 16: -5 -7 / 1 2 4 B B I L O R U i n n q u w
+Pass 17: -7 / -5 1 2 4 B B I L O R U i n n q u w
+
+Pass 0: N L s e h z q M S u -5 i v R 3 c -2 9 o /
+Pass 1: L N e h s q M S u -5 i v R 3 c -2 9 o / z
+Pass 2: L N e h q M S s -5 i u R 3 c -2 9 o / v z
+Pass 3: L N e h M S q -5 i s R 3 c -2 9 o / u v z
+Pass 4: L N e M S h -5 i q R 3 c -2 9 o / s u v z
+Pass 5: L N M S e -5 h i R 3 c -2 9 o / q s u v z
+Pass 6: L M N S -5 e h R 3 c -2 9 i / o q s u v z
+Pass 7: L M N -5 S e R 3 c -2 9 h / i o q s u v z
+Pass 8: L M -5 N S R 3 c -2 9 e / h i o q s u v z
+Pass 9: L -5 M N R 3 S -2 9 c / e h i o q s u v z
+Pass 10: -5 L M N 3 R -2 9 S / c e h i o q s u v z
+Pass 11: -5 L M 3 N -2 9 R / S c e h i o q s u v z
+Pass 12: -5 L 3 M -2 9 N / R S c e h i o q s u v z
+Pass 13: -5 3 L -2 9 M / N R S c e h i o q s u v z
+Pass 14: -5 3 -2 9 L / M N R S c e h i o q s u v z
+Pass 15: -5 -2 3 9 / L M N R S c e h i o q s u v z
+
+Pass 0: -2 -1 -7 k r y -3 V h C t O j /
+Pass 1: -2 -7 -1 k r -3 V h C t O j / y
+Pass 2: -7 -2 -1 k -3 V h C r O j / t y
+Pass 3: -7 -2 -1 -3 V h C k O j / r t y
+Pass 4: -7 -2 -3 -1 V C h O j / k r t y
+Pass 5: -7 -3 -2 -1 C V O h / j k r t y
+Pass 6: -7 -3 -2 -1 C O V / h j k r t y
+
+Pass 0: x K t t U y 4 J -5 j t s 8 -7 U /
+Pass 1: K t t U x 4 J -5 j t s 8 -7 U / y
+Pass 2: K t U t 4 J -5 j t s 8 -7 U / x y
+Pass 3: K U t 4 J -5 j t s 8 -7 U / t x y
+Pass 4: K U 4 J -5 j t s 8 -7 U / t t x y
+Pass 5: K 4 J -5 U j s 8 -7 U / t t t x y
+Pass 6: 4 J -5 K U j 8 -7 U / s t t t x y
+Pass 7: 4 -5 J K U 8 -7 U / j s t t t x y
+Pass 8: -5 4 J K 8 -7 U / U j s t t t x y
+Pass 9: -5 4 J 8 -7 K / U U j s t t t x y
+Pass 10: -5 4 8 -7 J / K U U j s t t t x y
+Pass 11: -5 4 -7 8 / J K U U j s t t t x y
+Pass 12: -5 -7 4 / 8 J K U U j s t t t x y
+Pass 13: -7 -5 / 4 8 J K U U j s t t t x y
+
+Pass 0: j A O u 5 s e a 7 K A s d /
+Pass 1: A O j 5 s e a 7 K A s d / u
+Pass 2: A O 5 j e a 7 K A s d / s u
+Pass 3: A 5 O e a 7 K A j d / s s u
+Pass 4: 5 A O a 7 K A e d / j s s u
+Pass 5: 5 A O 7 K A a d / e j s s u
+Pass 6: 5 A 7 K A O a / d e j s s u
+Pass 7: 5 7 A A K O / a d e j s s u
+
+Pass 0: 7 2 E 7 U 8 o -6 W 0 /
+Pass 1: 2 7 7 E 8 U -6 W 0 / o
+Pass 2: 2 7 7 8 E -6 U 0 / W o
+Pass 3: 2 7 7 8 -6 E 0 / U W o
+Pass 4: 2 7 7 -6 8 0 / E U W o
+Pass 5: 2 7 -6 7 0 / 8 E U W o
+Pass 6: 2 -6 7 0 / 7 8 E U W o
+Pass 7: -6 2 0 / 7 7 8 E U W o
+Pass 8: -6 0 / 2 7 7 8 E U W o
+
+Pass 0: y U f J -5 R z P B i 0 -9 S R 1 4 j t i /
+Pass 1: U f J -5 R y P B i 0 -9 S R 1 4 j t i / z
+Pass 2: U J -5 R f P B i 0 -9 S R 1 4 j t i / y z
+Pass 3: J -5 R U P B f 0 -9 S R 1 4 i j i / t y z
+Pass 4: -5 J R P B U 0 -9 S R 1 4 f i i / j t y z
+Pass 5: -5 J P B R 0 -9 S R 1 4 U f i / i j t y z
+Pass 6: -5 J B P 0 -9 R R 1 4 S U f / i i j t y z
+Pass 7: -5 B J 0 -9 P R 1 4 R S U / f i i j t y z
+Pass 8: -5 B 0 -9 J P 1 4 R R S / U f i i j t y z
+Pass 9: -5 0 -9 B J 1 4 P R R / S U f i i j t y z
+Pass 10: -5 -9 0 B 1 4 J P R / R S U f i i j t y z
+Pass 11: -9 -5 0 1 4 B J P / R R S U f i i j t y z
+
+Pass 0: 8 S f n y 2 C W 1 -4 -3 g O Q T W /
+Pass 1: 8 S f n 2 C W 1 -4 -3 g O Q T W / y
+Pass 2: 8 S f 2 C W 1 -4 -3 g O Q T W / n y
+Pass 3: 8 S 2 C W 1 -4 -3 f O Q T W / g n y
+Pass 4: 8 2 C S 1 -4 -3 W O Q T W / f g n y
+Pass 5: 2 8 C 1 -4 -3 S O Q T W / W f g n y
+Pass 6: 2 8 1 -4 -3 C O Q S T / W W f g n y
+Pass 7: 2 1 -4 -3 8 C O Q S / T W W f g n y
+Pass 8: 1 -4 -3 2 8 C O Q / S T W W f g n y
+Pass 9: -4 -3 1 2 8 C O / Q S T W W f g n y
+
+Pass 0: -1 A A T J n -9 H I z x z j t s -6 v 9 r /
+Pass 1: -1 A A J T -9 H I n x z j t s -6 v 9 r / z
+Pass 2: -1 A A J -9 H I T n x j t s -6 v 9 r / z z
+Pass 3: -1 A A -9 H I J T n j t s -6 v 9 r / x z z
+Pass 4: -1 A -9 A H I J T j n s -6 t 9 r / v x z z
+Pass 5: -1 -9 A A H I J T j n -6 s 9 r / t v x z z
+Pass 6: -9 -1 A A H I J T j -6 n 9 r / s t v x z z
+Pass 7: -9 -1 A A H I J T -6 j 9 n / r s t v x z z
+Pass 8: -9 -1 A A H I J -6 T 9 j / n r s t v x z z
+Pass 9: -9 -1 A A H I -6 J 9 T / j n r s t v x z z
+Pass 10: -9 -1 A A H -6 I 9 J / T j n r s t v x z z
+Pass 11: -9 -1 A A -6 H 9 I / J T j n r s t v x z z
+Pass 12: -9 -1 A -6 A 9 H / I J T j n r s t v x z z
+Pass 13: -9 -1 -6 A 9 A / H I J T j n r s t v x z z
+Pass 14: -9 -6 -1 9 A / A H I J T j n r s t v x z z
+
+Pass 0: g 5 G O -9 C w d W i S 5 0 O h T H F M /
+Pass 1: 5 G O -9 C g d W i S 5 0 O h T H F M / w
+Pass 2: 5 G -9 C O d W g S 5 0 O h T H F M / i w
+Pass 3: 5 -9 C G O W d S 5 0 O g T H F M / h i w
+Pass 4: -9 5 C G O W S 5 0 O d T H F M / g h i w
+Pass 5: -9 5 C G O S 5 0 O W T H F M / d g h i w
+Pass 6: -9 5 C G O 5 0 O S T H F M / W d g h i w
+Pass 7: -9 5 C G 5 0 O O S H F M / T W d g h i w
+Pass 8: -9 5 C 5 0 G O O H F M / S T W d g h i w
+Pass 9: -9 5 5 0 C G O H F M / O S T W d g h i w
+Pass 10: -9 5 0 5 C G H F M / O O S T W d g h i w
+Pass 11: -9 0 5 5 C G F H / M O O S T W d g h i w
+Pass 12: -9 0 5 5 C F G / H M O O S T W d g h i w
+
+Pass 0: o 8 7 D q T o B m Q 0 -8 R T -1 a -6 a /
+Pass 1: 8 7 D o T o B m Q 0 -8 R T -1 a -6 a / q
+Pass 2: 7 8 D T o B m Q 0 -8 R T -1 a -6 a / o q
+Pass 3: 7 8 D T B m Q 0 -8 R T -1 a -6 a / o o q
+Pass 4: 7 8 D B T Q 0 -8 R T -1 a -6 a / m o o q
+Pass 5: 7 8 B D Q 0 -8 R T -1 T -6 a / a m o o q
+Pass 6: 7 8 B D 0 -8 Q R -1 T -6 T / a a m o o q
+Pass 7: 7 8 B 0 -8 D Q -1 R -6 T / T a a m o o q
+Pass 8: 7 8 0 -8 B D -1 Q -6 R / T T a a m o o q
+Pass 9: 7 0 -8 8 B -1 D -6 Q / R T T a a m o o q
+Pass 10: 0 -8 7 8 -1 B -6 D / Q R T T a a m o o q
+Pass 11: -8 0 7 -1 8 -6 B / D Q R T T a a m o o q
+Pass 12: -8 0 -1 7 -6 8 / B D Q R T T a a m o o q
+Pass 13: -8 -1 0 -6 7 / 8 B D Q R T T a a m o o q
+Pass 14: -8 -1 -6 0 / 7 8 B D Q R T T a a m o o q
+Pass 15: -8 -6 -1 / 0 7 8 B D Q R T T a a m o o q
+
+Pass 0: P V 9 2 V Q t I t V A U B /
+Pass 1: P 9 2 V Q V I t V A U B / t
+Pass 2: 9 2 P Q V I V V A U B / t t
+Pass 3: 2 9 P Q I V V A U B / V t t
+Pass 4: 2 9 P I Q V A U B / V V t t
+Pass 5: 2 9 I P Q A U B / V V V t t
+Pass 6: 2 9 I P A Q B / U V V V t t
+Pass 7: 2 9 I A P B / Q U V V V t t
+Pass 8: 2 9 A I B / P Q U V V V t t
+Pass 9: 2 9 A B / I P Q U V V V t t
+
+Pass 0: s -3 K P -6 D M r -4 y j x i P k /
+Pass 1: -3 K P -6 D M r -4 s j x i P k / y
+Pass 2: -3 K -6 D M P -4 r j s i P k / x y
+Pass 3: -3 -6 D K M -4 P j r i P k / s x y
+Pass 4: -6 -3 D K -4 M P j i P k / r s x y
+Pass 5: -6 -3 D -4 K M P i P j / k r s x y
+Pass 6: -6 -3 -4 D K M P P i / j k r s x y
+Pass 7: -6 -4 -3 D K M P P / i j k r s x y
+
+Pass 0: 0 O 9 5 F y d -3 M -5 8 y K B V M -5 G /
+Pass 1: 0 9 5 F O d -3 M -5 8 y K B V M -5 G / y
+Pass 2: 0 5 9 F O -3 M -5 8 d K B V M -5 G / y y
+Pass 3: 0 5 9 F -3 M -5 8 O K B V M -5 G / d y y
+Pass 4: 0 5 9 -3 F -5 8 M K B O M -5 G / V d y y
+Pass 5: 0 5 -3 9 -5 8 F K B M M -5 G / O V d y y
+Pass 6: 0 -3 5 -5 8 9 F B K M -5 G / M O V d y y
+Pass 7: -3 0 -5 5 8 9 B F K -5 G / M M O V d y y
+Pass 8: -3 -5 0 5 8 9 B F -5 G / K M M O V d y y
+Pass 9: -5 -3 0 5 8 9 B -5 F / G K M M O V d y y
+Pass 10: -5 -3 0 5 8 9 -5 B / F G K M M O V d y y
+Pass 11: -5 -3 0 5 8 -5 9 / B F G K M M O V d y y
+Pass 12: -5 -3 0 5 -5 8 / 9 B F G K M M O V d y y
+Pass 13: -5 -3 0 -5 5 / 8 9 B F G K M M O V d y y
+Pass 14: -5 -3 -5 0 / 5 8 9 B F G K M M O V d y y
+Pass 15: -5 -5 -3 / 0 5 8 9 B F G K M M O V d y y
+
+Pass 0: d w m v n O M g h I 4 p U C L -9 /
+Pass 1: d m v n O M g h I 4 p U C L -9 / w
+Pass 2: d m n O M g h I 4 p U C L -9 / v w
+Pass 3: d m O M g h I 4 n U C L -9 / p v w
+Pass 4: d O M g h I 4 m U C L -9 / n p v w
+Pass 5: O M d g I 4 h U C L -9 / m n p v w
+Pass 6: M O d I 4 g U C L -9 / h m n p v w
+Pass 7: M O I 4 d U C L -9 / g h m n p v w
+Pass 8: M I 4 O U C L -9 / d g h m n p v w
+Pass 9: I 4 M O C L -9 / U d g h m n p v w
+Pass 10: 4 I M C L -9 / O U d g h m n p v w
+Pass 11: 4 I C L -9 / M O U d g h m n p v w
+Pass 12: 4 C I -9 / L M O U d g h m n p v w
+Pass 13: 4 C -9 / I L M O U d g h m n p v w
+Pass 14: 4 -9 / C I L M O U d g h m n p v w
+Pass 15: -9 / 4 C I L M O U d g h m n p v w
+
+Pass 0: E u 2 t -3 b -7 -6 O A 5 h u J T g /
+Pass 1: E 2 t -3 b -7 -6 O A 5 h u J T g / u
+Pass 2: 2 E -3 b -7 -6 O A 5 h t J T g / u u
+Pass 3: 2 -3 E -7 -6 O A 5 b h J T g / t u u
+Pass 4: -3 2 -7 -6 E A 5 O b J T g / h t u u
+Pass 5: -3 -7 -6 2 A 5 E O J T b / g h t u u
+Pass 6: -7 -6 -3 2 5 A E J O T / b g h t u u
+
+Pass 0: F P R 8 L T I A r R w 3 G -8 m o /
+Pass 1: F P 8 L R I A T R r 3 G -8 m o / w
+Pass 2: F 8 L P I A R R T 3 G -8 m o / r w
+Pass 3: 8 F L I A P R R 3 G -8 T m / o r w
+Pass 4: 8 F I A L P R 3 G -8 R T / m o r w
+Pass 5: 8 F A I L P 3 G -8 R R / T m o r w
+Pass 6: 8 A F I L 3 G -8 P R / R T m o r w
+Pass 7: 8 A F I 3 G -8 L P / R R T m o r w
+Pass 8: 8 A F 3 G -8 I L / P R R T m o r w
+Pass 9: 8 A 3 F -8 G I / L P R R T m o r w
+Pass 10: 8 3 A -8 F G / I L P R R T m o r w
+Pass 11: 3 8 -8 A F / G I L P R R T m o r w
+Pass 12: 3 -8 8 A / F G I L P R R T m o r w
+Pass 13: -8 3 8 / A F G I L P R R T m o r w
+
+Pass 0: o z n H n 6 k -3 j q H r x F p /
+Pass 1: o n H n 6 k -3 j q H r x F p / z
+Pass 2: n H n 6 k -3 j o H q r F p / x z
+Pass 3: H n 6 k -3 j n H o q F p / r x z
+Pass 4: H 6 k -3 j n H n o F p / q r x z
+Pass 5: 6 H -3 j k H n n F o / p q r x z
+Pass 6: 6 -3 H j H k n F n / o p q r x z
+Pass 7: -3 6 H H j k F n / n o p q r x z
+Pass 8: -3 6 H H j F k / n n o p q r x z
+Pass 9: -3 6 H H F j / k n n o p q r x z
+Pass 10: -3 6 H F H / j k n n o p q r x z
+Pass 11: -3 6 F H / H j k n n o p q r x z
+
+Pass 0: I 1 n Q D 6 a s L I r J d i -8 K q E /
+Pass 1: 1 I Q D 6 a n L I r J d i -8 K q E / s
+Pass 2: 1 I D 6 Q a L I n J d i -8 K q E / r s
+Pass 3: 1 D 6 I Q L I a J d i -8 K n E / q r s
+Pass 4: 1 6 D I L I Q J a d -8 K i E / n q r s
+Pass 5: 1 6 D I I L J Q a -8 K d E / i n q r s
+Pass 6: 1 6 D I I J L Q -8 K a E / d i n q r s
+Pass 7: 1 6 D I I J L -8 K Q E / a d i n q r s
+Pass 8: 1 6 D I I J -8 K L E / Q a d i n q r s
+Pass 9: 1 6 D I I -8 J K E / L Q a d i n q r s
+Pass 10: 1 6 D I -8 I J E / K L Q a d i n q r s
+Pass 11: 1 6 D -8 I I E / J K L Q a d i n q r s
+Pass 12: 1 6 -8 D I E / I J K L Q a d i n q r s
+Pass 13: 1 -8 6 D E / I I J K L Q a d i n q r s
+Pass 14: -8 1 6 D / E I I J K L Q a d i n q r s
+
+Pass 0: R D N w c -1 E o -8 r n /
+Pass 1: D N R c -1 E o -8 r n / w
+Pass 2: D N R -1 E c -8 o n / r w
+Pass 3: D N -1 E R -8 c n / o r w
+Pass 4: D -1 E N -8 R c / n o r w
+Pass 5: -1 D E -8 N R / c n o r w
+Pass 6: -1 D -8 E N / R c n o r w
+Pass 7: -1 -8 D E / N R c n o r w
+Pass 8: -8 -1 D / E N R c n o r w
+
+Pass 0: y d o o Q V T y a s V S q x g v 1 /
+Pass 1: d o o Q V T y a s V S q x g v 1 / y
+Pass 2: d o Q V T o a s V S q x g v 1 / y y
+Pass 3: d Q V T o a o V S q s g v 1 / x y y
+Pass 4: Q V T d a o V S o q g s 1 / v x y y
+Pass 5: Q T V a d V S o o g q 1 / s v x y y
+Pass 6: Q T V a V S d o g o 1 / q s v x y y
+Pass 7: Q T V V S a d g o 1 / o q s v x y y
+Pass 8: Q T V S V a d g 1 / o o q s v x y y
+Pass 9: Q T S V V a d 1 / g o o q s v x y y
+Pass 10: Q S T V V a 1 / d g o o q s v x y y
+Pass 11: Q S T V V 1 / a d g o o q s v x y y
+Pass 12: Q S T V 1 / V a d g o o q s v x y y
+Pass 13: Q S T 1 / V V a d g o o q s v x y y
+Pass 14: Q S 1 / T V V a d g o o q s v x y y
+Pass 15: Q 1 / S T V V a d g o o q s v x y y
+Pass 16: 1 / Q S T V V a d g o o q s v x y y
+
+Pass 0: H K v l L K -4 G d n 0 4 K L o v F S G /
+Pass 1: H K l L K -4 G d n 0 4 K L o v F S G / v
+Pass 2: H K L K -4 G d l 0 4 K L n o F S G / v v
+Pass 3: H K K -4 G L d 0 4 K L l n F S G / o v v
+Pass 4: H K -4 G K L 0 4 K L d l F S G / n o v v
+Pass 5: H -4 G K K 0 4 K L L d F S G / l n o v v
+Pass 6: -4 G H K 0 4 K K L L F S G / d l n o v v
+Pass 7: -4 G H 0 4 K K K L F L G / S d l n o v v
+Pass 8: -4 G 0 4 H K K K F L G / L S d l n o v v
+Pass 9: -4 0 4 G H K K F K G / L L S d l n o v v
+Pass 10: -4 0 4 G H K F K G / K L L S d l n o v v
+Pass 11: -4 0 4 G H F K G / K K L L S d l n o v v
+Pass 12: -4 0 4 G F H G / K K K L L S d l n o v v
+Pass 13: -4 0 4 F G G / H K K K L L S d l n o v v
+
+Pass 0: -8 -8 -1 v a g P 1 -5 b M L Q L S Q 8 e 7 /
+Pass 1: -8 -8 -1 a g P 1 -5 b M L Q L S Q 8 e 7 / v
+Pass 2: -8 -8 -1 a P 1 -5 b M L Q L S Q 8 e 7 / g v
+Pass 3: -8 -8 -1 P 1 -5 a M L Q L S Q 8 b 7 / e g v
+Pass 4: -8 -8 -1 1 -5 P M L Q L S Q 8 a 7 / b e g v
+Pass 5: -8 -8 -1 -5 1 M L P L Q Q 8 S 7 / a b e g v
+Pass 6: -8 -8 -5 -1 1 L M L P Q 8 Q 7 / S a b e g v
+Pass 7: -8 -8 -5 -1 1 L L M P 8 Q 7 / Q S a b e g v
+Pass 8: -8 -8 -5 -1 1 L L M 8 P 7 / Q Q S a b e g v
+Pass 9: -8 -8 -5 -1 1 L L 8 M 7 / P Q Q S a b e g v
+Pass 10: -8 -8 -5 -1 1 L 8 L 7 / M P Q Q S a b e g v
+Pass 11: -8 -8 -5 -1 1 8 L 7 / L M P Q Q S a b e g v
+Pass 12: -8 -8 -5 -1 1 8 7 / L L M P Q Q S a b e g v
+Pass 13: -8 -8 -5 -1 1 7 / 8 L L M P Q Q S a b e g v
+
+Pass 0: f G H -3 v 2 m -2 M A J -7 /
+Pass 1: G H -3 f 2 m -2 M A J -7 / v
+Pass 2: G -3 H 2 f -2 M A J -7 / m v
+Pass 3: -3 G 2 H -2 M A J -7 / f m v
+Pass 4: -3 2 G -2 H A J -7 / M f m v
+Pass 5: -3 2 -2 G A H -7 / J M f m v
+Pass 6: -3 -2 2 A G -7 / H J M f m v
+Pass 7: -3 -2 2 A -7 / G H J M f m v
+Pass 8: -3 -2 2 -7 / A G H J M f m v
+Pass 9: -3 -2 -7 / 2 A G H J M f m v
+Pass 10: -3 -7 / -2 2 A G H J M f m v
+Pass 11: -7 / -3 -2 2 A G H J M f m v
